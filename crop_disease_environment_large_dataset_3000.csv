@@ -1,0 +1,3001 @@
+crop,soil_type,soil_ph,temperature,humidity,rainfall,disease
+Pepper,Clay,6.7,35,91,148,Bacterial Leaf Spot
+Pepper,Sandy,5.5,26,89,46,Bacterial Spot
+Tomato,Loamy,6.5,28,82,10,Early Blight
+Tomato,Loamy,6.0,21,78,15,Early Blight
+Tomato,Sandy,5.8,33,69,172,Healthy
+Tomato,Loamy,5.6,30,89,56,Early Blight
+Pepper,Sandy,6.2,25,69,41,Healthy
+Potato,Loamy,6.3,19,95,135,Late Blight
+Tomato,Clay,7.1,25,91,151,Late Blight
+Pepper,Sandy,6.2,30,85,144,Bacterial Leaf Spot
+Pepper,Sandy,5.7,24,59,65,Healthy
+Potato,Sandy,6.1,29,70,83,Healthy
+Tomato,Loamy,6.4,23,61,74,Healthy
+Potato,Clay,7.1,31,89,52,Early Blight
+Potato,Clay,7.2,26,57,70,Healthy
+Pepper,Loamy,7.1,30,55,136,Healthy
+Tomato,Clay,5.6,21,94,174,Late Blight
+Potato,Loamy,6.8,24,59,17,Healthy
+Pepper,Sandy,7.0,28,85,50,Bacterial Spot
+Pepper,Loamy,6.1,24,62,71,Healthy
+Tomato,Loamy,5.9,34,63,77,Healthy
+Pepper,Sandy,6.1,30,72,153,Bacterial Spot
+Tomato,Sandy,6.1,35,71,64,Early Blight
+Pepper,Loamy,6.1,25,69,128,Healthy
+Potato,Loamy,7.1,31,82,35,Early Blight
+Pepper,Sandy,5.6,33,78,151,Bacterial Spot
+Pepper,Sandy,6.8,19,74,107,Bacterial Spot
+Pepper,Sandy,6.7,30,77,136,Bacterial Spot
+Pepper,Loamy,7.1,21,72,129,Bacterial Spot
+Tomato,Loamy,5.9,31,78,21,Early Blight
+Pepper,Clay,5.5,35,55,180,Healthy
+Pepper,Loamy,5.8,18,91,116,Bacterial Leaf Spot
+Potato,Sandy,7.2,33,86,103,Late Blight
+Pepper,Loamy,6.4,24,84,132,Bacterial Leaf Spot
+Potato,Sandy,6.1,20,79,66,Early Blight
+Tomato,Sandy,6.4,29,55,156,Healthy
+Pepper,Clay,6.1,20,90,174,Bacterial Leaf Spot
+Potato,Loamy,6.9,27,64,50,Healthy
+Tomato,Loamy,6.7,33,78,68,Early Blight
+Pepper,Clay,6.0,31,87,180,Bacterial Leaf Spot
+Potato,Loamy,6.6,21,68,44,Healthy
+Tomato,Clay,7.2,29,58,95,Healthy
+Tomato,Clay,7.1,21,90,99,Early Blight
+Potato,Loamy,6.9,33,85,131,Late Blight
+Pepper,Loamy,7.1,31,56,51,Healthy
+Pepper,Clay,6.4,22,58,152,Healthy
+Pepper,Loamy,6.4,24,68,38,Healthy
+Potato,Sandy,6.9,29,93,14,Early Blight
+Pepper,Loamy,6.6,33,70,59,Healthy
+Pepper,Sandy,7.0,31,79,164,Bacterial Spot
+Pepper,Loamy,5.9,27,92,97,Bacterial Spot
+Pepper,Loamy,5.7,33,94,75,Bacterial Spot
+Potato,Sandy,5.7,35,67,147,Healthy
+Pepper,Sandy,6.9,32,80,167,Bacterial Spot
+Pepper,Clay,6.1,29,81,87,Bacterial Spot
+Pepper,Clay,6.5,34,79,67,Bacterial Spot
+Tomato,Clay,6.9,35,80,137,Early Blight
+Pepper,Clay,6.2,35,94,85,Bacterial Spot
+Pepper,Loamy,6.7,27,78,71,Bacterial Spot
+Pepper,Clay,6.3,25,91,90,Bacterial Spot
+Potato,Clay,6.4,25,92,85,Early Blight
+Tomato,Clay,7.0,23,91,130,Late Blight
+Pepper,Clay,5.5,28,85,142,Bacterial Leaf Spot
+Pepper,Sandy,6.1,35,61,28,Healthy
+Pepper,Sandy,6.3,33,76,140,Bacterial Spot
+Potato,Loamy,6.4,21,93,129,Late Blight
+Potato,Loamy,5.6,26,94,65,Early Blight
+Tomato,Loamy,6.9,30,72,146,Early Blight
+Potato,Sandy,6.8,19,59,58,Healthy
+Potato,Loamy,5.9,23,74,81,Early Blight
+Potato,Loamy,5.8,19,65,45,Healthy
+Potato,Loamy,7.0,23,86,119,Late Blight
+Tomato,Sandy,6.7,27,71,25,Early Blight
+Tomato,Loamy,6.4,29,66,37,Healthy
+Potato,Sandy,6.2,26,86,123,Late Blight
+Potato,Sandy,6.6,24,62,24,Healthy
+Tomato,Loamy,6.2,27,72,155,Early Blight
+Potato,Sandy,6.2,31,85,117,Late Blight
+Potato,Loamy,6.8,22,85,59,Early Blight
+Tomato,Loamy,6.3,35,89,106,Late Blight
+Potato,Loamy,5.7,23,80,126,Early Blight
+Tomato,Sandy,5.8,21,76,69,Early Blight
+Pepper,Sandy,5.8,28,86,51,Bacterial Spot
+Potato,Clay,7.0,22,90,16,Early Blight
+Potato,Clay,6.0,33,93,60,Early Blight
+Potato,Loamy,6.0,29,59,63,Healthy
+Potato,Sandy,5.5,27,65,152,Healthy
+Potato,Loamy,6.8,24,84,35,Early Blight
+Tomato,Loamy,7.0,18,83,57,Early Blight
+Tomato,Sandy,6.0,19,90,156,Late Blight
+Pepper,Loamy,7.1,25,95,10,Bacterial Spot
+Potato,Sandy,6.7,26,73,123,Early Blight
+Tomato,Loamy,6.2,19,61,153,Healthy
+Pepper,Loamy,5.9,26,62,25,Healthy
+Tomato,Loamy,6.4,21,66,161,Healthy
+Tomato,Clay,7.1,25,93,36,Early Blight
+Pepper,Loamy,7.2,23,71,169,Bacterial Spot
+Pepper,Sandy,5.7,24,63,95,Healthy
+Tomato,Sandy,6.9,22,85,92,Early Blight
+Tomato,Loamy,6.7,34,68,177,Healthy
+Tomato,Clay,5.8,34,72,178,Early Blight
+Potato,Loamy,6.0,27,65,119,Healthy
+Pepper,Sandy,5.6,29,90,52,Bacterial Spot
+Pepper,Clay,6.1,22,94,133,Bacterial Leaf Spot
+Potato,Sandy,5.9,34,74,125,Early Blight
+Tomato,Clay,6.9,32,83,170,Late Blight
+Tomato,Loamy,6.6,24,62,129,Healthy
+Pepper,Loamy,5.9,31,57,106,Healthy
+Tomato,Loamy,5.8,25,55,102,Healthy
+Pepper,Loamy,6.7,22,94,77,Bacterial Spot
+Tomato,Clay,5.8,22,83,84,Early Blight
+Tomato,Loamy,5.6,25,77,75,Early Blight
+Potato,Loamy,5.6,24,79,164,Early Blight
+Potato,Clay,6.9,20,94,38,Early Blight
+Pepper,Sandy,5.6,28,70,122,Healthy
+Pepper,Sandy,6.9,26,78,34,Bacterial Spot
+Potato,Clay,6.2,29,57,70,Healthy
+Pepper,Clay,6.5,20,72,39,Bacterial Spot
+Potato,Sandy,6.3,35,64,55,Healthy
+Pepper,Sandy,6.3,30,62,73,Healthy
+Pepper,Sandy,6.0,25,90,87,Bacterial Spot
+Potato,Loamy,5.8,31,72,99,Early Blight
+Tomato,Sandy,6.1,32,56,93,Healthy
+Tomato,Sandy,6.0,28,91,31,Early Blight
+Potato,Sandy,6.8,32,74,40,Early Blight
+Pepper,Loamy,6.5,33,57,147,Healthy
+Potato,Loamy,5.6,29,91,151,Late Blight
+Tomato,Sandy,6.2,31,76,73,Early Blight
+Potato,Sandy,6.1,32,63,103,Healthy
+Tomato,Clay,5.9,19,61,163,Healthy
+Pepper,Sandy,5.9,34,64,171,Healthy
+Tomato,Loamy,6.6,33,94,155,Late Blight
+Pepper,Sandy,7.1,20,85,57,Bacterial Spot
+Tomato,Sandy,5.8,24,92,177,Late Blight
+Tomato,Clay,6.2,30,82,84,Early Blight
+Tomato,Sandy,6.5,22,58,89,Healthy
+Pepper,Clay,6.4,35,64,83,Healthy
+Pepper,Clay,5.7,27,95,104,Bacterial Leaf Spot
+Tomato,Loamy,5.7,35,74,128,Early Blight
+Pepper,Loamy,5.5,21,80,56,Bacterial Spot
+Tomato,Clay,5.7,25,92,49,Early Blight
+Potato,Sandy,5.8,18,63,117,Healthy
+Potato,Loamy,6.6,18,56,85,Healthy
+Pepper,Sandy,6.8,33,64,140,Healthy
+Tomato,Loamy,5.8,25,57,140,Healthy
+Potato,Clay,6.4,20,82,47,Early Blight
+Potato,Clay,6.4,28,61,35,Healthy
+Tomato,Sandy,5.7,22,64,148,Healthy
+Pepper,Sandy,6.2,27,91,39,Bacterial Spot
+Pepper,Sandy,6.8,28,66,103,Healthy
+Tomato,Sandy,6.6,18,87,117,Late Blight
+Pepper,Loamy,6.9,26,64,97,Healthy
+Tomato,Sandy,5.7,21,70,30,Healthy
+Pepper,Loamy,6.7,20,90,27,Bacterial Spot
+Potato,Clay,6.3,18,91,35,Early Blight
+Potato,Loamy,6.8,25,81,11,Early Blight
+Potato,Sandy,6.8,22,59,64,Healthy
+Pepper,Sandy,6.6,28,62,17,Healthy
+Pepper,Loamy,6.7,19,66,174,Healthy
+Potato,Clay,5.6,27,86,60,Early Blight
+Pepper,Loamy,6.7,26,74,48,Bacterial Spot
+Potato,Sandy,6.8,22,63,51,Healthy
+Tomato,Loamy,6.0,29,89,138,Late Blight
+Pepper,Clay,5.7,19,62,34,Healthy
+Tomato,Loamy,6.1,26,89,127,Late Blight
+Tomato,Clay,6.2,21,81,166,Late Blight
+Tomato,Sandy,6.9,34,77,175,Early Blight
+Potato,Sandy,6.8,30,93,70,Early Blight
+Pepper,Sandy,5.7,29,93,116,Bacterial Leaf Spot
+Pepper,Clay,6.6,24,92,52,Bacterial Spot
+Pepper,Sandy,6.3,30,70,79,Healthy
+Tomato,Sandy,5.7,33,89,27,Early Blight
+Tomato,Sandy,7.1,32,84,81,Early Blight
+Potato,Sandy,5.6,30,84,171,Late Blight
+Potato,Loamy,6.9,30,67,115,Healthy
+Potato,Clay,6.7,32,80,31,Early Blight
+Pepper,Loamy,6.6,30,93,11,Bacterial Spot
+Potato,Sandy,6.8,30,89,108,Late Blight
+Tomato,Clay,5.7,29,70,42,Healthy
+Potato,Sandy,6.5,23,91,98,Early Blight
+Tomato,Clay,6.4,32,71,121,Early Blight
+Tomato,Sandy,5.7,21,71,142,Early Blight
+Potato,Sandy,6.9,26,80,120,Early Blight
+Pepper,Loamy,6.1,19,59,116,Healthy
+Tomato,Loamy,6.5,22,86,36,Early Blight
+Potato,Sandy,5.5,28,61,123,Healthy
+Pepper,Sandy,6.1,30,88,59,Bacterial Spot
+Tomato,Sandy,6.5,26,72,155,Early Blight
+Potato,Loamy,6.8,28,74,24,Early Blight
+Tomato,Clay,5.6,25,76,23,Early Blight
+Pepper,Clay,5.5,23,69,158,Healthy
+Tomato,Sandy,6.3,24,71,50,Early Blight
+Pepper,Loamy,6.7,24,70,102,Healthy
+Potato,Loamy,6.4,34,69,36,Healthy
+Potato,Clay,6.4,31,91,62,Early Blight
+Tomato,Sandy,6.3,21,95,78,Early Blight
+Pepper,Clay,6.8,26,87,116,Bacterial Leaf Spot
+Pepper,Loamy,7.1,31,73,127,Bacterial Spot
+Tomato,Clay,6.7,32,87,159,Late Blight
+Potato,Loamy,5.5,23,61,28,Healthy
+Tomato,Sandy,6.1,31,58,73,Healthy
+Tomato,Clay,5.6,19,83,160,Late Blight
+Pepper,Clay,6.3,31,72,147,Bacterial Spot
+Tomato,Loamy,6.7,28,95,179,Late Blight
+Tomato,Loamy,6.8,34,86,68,Early Blight
+Pepper,Loamy,5.7,32,60,94,Healthy
+Pepper,Loamy,6.3,31,94,112,Bacterial Leaf Spot
+Pepper,Clay,7.1,22,83,180,Bacterial Leaf Spot
+Pepper,Clay,6.1,26,81,61,Bacterial Spot
+Tomato,Sandy,6.3,20,59,155,Healthy
+Pepper,Clay,6.9,33,67,41,Healthy
+Pepper,Loamy,6.3,34,79,17,Bacterial Spot
+Pepper,Clay,6.4,31,68,107,Healthy
+Pepper,Loamy,5.9,18,87,76,Bacterial Spot
+Tomato,Clay,7.0,25,95,88,Early Blight
+Potato,Loamy,6.3,32,62,35,Healthy
+Tomato,Clay,5.6,32,75,45,Early Blight
+Pepper,Sandy,6.4,23,85,35,Bacterial Spot
+Pepper,Clay,5.6,33,71,15,Bacterial Spot
+Tomato,Loamy,6.8,34,78,92,Early Blight
+Potato,Loamy,7.1,33,58,50,Healthy
+Potato,Sandy,6.2,30,56,147,Healthy
+Potato,Clay,7.0,20,82,60,Early Blight
+Tomato,Clay,6.9,22,57,127,Healthy
+Pepper,Sandy,6.3,31,73,29,Bacterial Spot
+Potato,Loamy,6.8,18,78,160,Early Blight
+Potato,Loamy,6.7,19,63,164,Healthy
+Potato,Clay,6.7,33,65,144,Healthy
+Pepper,Clay,6.5,31,76,121,Bacterial Spot
+Potato,Clay,7.2,35,84,108,Late Blight
+Pepper,Sandy,6.5,28,70,29,Healthy
+Potato,Clay,7.0,35,74,40,Early Blight
+Potato,Sandy,6.0,26,58,40,Healthy
+Potato,Loamy,6.0,35,86,152,Late Blight
+Pepper,Clay,5.8,34,59,105,Healthy
+Potato,Sandy,6.4,27,66,106,Healthy
+Potato,Clay,7.1,18,60,66,Healthy
+Potato,Sandy,5.9,33,93,43,Early Blight
+Pepper,Sandy,5.7,26,91,51,Bacterial Spot
+Potato,Sandy,5.7,19,59,24,Healthy
+Tomato,Loamy,6.6,30,64,125,Healthy
+Tomato,Loamy,6.2,34,62,158,Healthy
+Potato,Sandy,6.5,22,77,173,Early Blight
+Pepper,Clay,5.9,24,78,146,Bacterial Spot
+Tomato,Loamy,5.5,19,72,32,Early Blight
+Tomato,Sandy,5.8,29,58,26,Healthy
+Potato,Clay,6.1,22,77,39,Early Blight
+Pepper,Loamy,5.9,19,58,85,Healthy
+Pepper,Loamy,6.5,28,64,165,Healthy
+Potato,Clay,5.6,33,86,129,Late Blight
+Pepper,Loamy,5.5,21,87,134,Bacterial Leaf Spot
+Pepper,Clay,5.5,32,82,176,Bacterial Leaf Spot
+Potato,Clay,6.9,19,74,48,Early Blight
+Potato,Clay,5.8,19,57,71,Healthy
+Potato,Clay,7.0,27,79,143,Early Blight
+Potato,Sandy,6.9,25,84,42,Early Blight
+Pepper,Loamy,7.1,31,89,30,Bacterial Spot
+Tomato,Clay,6.1,29,94,52,Early Blight
+Pepper,Sandy,5.7,21,90,42,Bacterial Spot
+Pepper,Clay,6.7,28,71,16,Bacterial Spot
+Tomato,Sandy,6.3,21,68,64,Healthy
+Tomato,Loamy,6.5,29,85,42,Early Blight
+Pepper,Loamy,7.0,24,78,114,Bacterial Spot
+Potato,Sandy,6.7,32,63,26,Healthy
+Pepper,Loamy,6.5,22,59,10,Healthy
+Potato,Sandy,6.4,27,74,149,Early Blight
+Tomato,Clay,6.4,29,71,64,Early Blight
+Tomato,Sandy,7.0,31,74,178,Early Blight
+Pepper,Clay,5.5,33,71,170,Bacterial Spot
+Tomato,Loamy,6.3,26,57,139,Healthy
+Pepper,Clay,6.6,30,68,147,Healthy
+Tomato,Sandy,5.6,31,69,54,Healthy
+Potato,Sandy,6.8,31,76,105,Early Blight
+Pepper,Sandy,6.8,28,86,32,Bacterial Spot
+Pepper,Sandy,5.5,26,94,17,Bacterial Spot
+Potato,Loamy,7.0,25,68,101,Healthy
+Tomato,Sandy,6.7,35,93,138,Late Blight
+Tomato,Sandy,6.4,28,76,162,Early Blight
+Tomato,Clay,5.5,34,74,78,Early Blight
+Pepper,Loamy,6.3,32,85,123,Bacterial Leaf Spot
+Potato,Sandy,5.5,33,59,102,Healthy
+Potato,Loamy,6.6,23,75,180,Early Blight
+Tomato,Clay,6.1,34,65,105,Healthy
+Potato,Clay,5.7,25,87,126,Late Blight
+Tomato,Clay,7.2,22,64,34,Healthy
+Tomato,Loamy,6.4,35,91,53,Early Blight
+Pepper,Clay,6.3,29,69,83,Healthy
+Pepper,Clay,6.4,23,89,65,Bacterial Spot
+Tomato,Clay,6.4,33,94,167,Late Blight
+Pepper,Sandy,7.0,21,55,64,Healthy
+Tomato,Loamy,5.6,32,60,48,Healthy
+Tomato,Sandy,7.2,19,94,47,Early Blight
+Pepper,Clay,7.1,30,55,78,Healthy
+Potato,Loamy,5.8,35,84,55,Early Blight
+Potato,Loamy,5.5,25,59,116,Healthy
+Pepper,Clay,6.5,19,68,11,Healthy
+Pepper,Clay,6.9,29,71,130,Bacterial Spot
+Pepper,Clay,7.1,22,73,85,Bacterial Spot
+Potato,Loamy,7.0,25,59,58,Healthy
+Tomato,Clay,5.8,30,81,65,Early Blight
+Potato,Loamy,6.5,29,85,125,Late Blight
+Potato,Sandy,7.0,26,83,96,Early Blight
+Tomato,Loamy,6.0,22,78,57,Early Blight
+Tomato,Sandy,7.1,33,63,89,Healthy
+Pepper,Sandy,6.0,22,75,28,Bacterial Spot
+Potato,Loamy,6.8,23,65,61,Healthy
+Pepper,Loamy,5.9,28,64,144,Healthy
+Tomato,Loamy,6.5,35,87,14,Early Blight
+Tomato,Sandy,6.2,23,65,100,Healthy
+Pepper,Sandy,7.0,24,69,97,Healthy
+Tomato,Loamy,5.7,28,77,61,Early Blight
+Tomato,Sandy,6.5,27,91,135,Late Blight
+Potato,Sandy,6.9,34,85,134,Late Blight
+Pepper,Clay,6.5,32,61,122,Healthy
+Potato,Clay,6.5,32,78,162,Early Blight
+Tomato,Clay,6.9,20,73,91,Early Blight
+Pepper,Loamy,6.9,32,82,110,Bacterial Leaf Spot
+Potato,Sandy,5.7,28,72,127,Early Blight
+Tomato,Clay,6.7,34,79,137,Early Blight
+Pepper,Sandy,6.4,25,60,166,Healthy
+Potato,Sandy,6.1,32,71,64,Early Blight
+Tomato,Sandy,6.2,35,72,107,Early Blight
+Tomato,Sandy,6.6,18,64,150,Healthy
+Pepper,Loamy,7.0,24,69,118,Healthy
+Pepper,Sandy,5.8,26,59,145,Healthy
+Pepper,Loamy,6.0,23,77,54,Bacterial Spot
+Potato,Sandy,7.2,31,73,112,Early Blight
+Tomato,Loamy,6.0,24,64,14,Healthy
+Potato,Clay,5.9,29,68,14,Healthy
+Potato,Sandy,5.9,25,67,39,Healthy
+Tomato,Loamy,5.5,32,80,73,Early Blight
+Pepper,Sandy,6.9,33,61,54,Healthy
+Tomato,Sandy,6.7,28,81,107,Late Blight
+Pepper,Sandy,6.7,32,76,66,Bacterial Spot
+Tomato,Loamy,7.2,18,93,94,Early Blight
+Tomato,Loamy,6.8,31,91,28,Early Blight
+Pepper,Clay,6.6,23,80,117,Bacterial Spot
+Pepper,Sandy,7.0,24,64,98,Healthy
+Tomato,Loamy,6.7,18,74,43,Early Blight
+Pepper,Clay,7.0,24,58,66,Healthy
+Potato,Loamy,5.6,27,79,123,Early Blight
+Potato,Clay,6.7,31,73,12,Early Blight
+Pepper,Loamy,7.0,27,85,125,Bacterial Leaf Spot
+Potato,Loamy,6.0,27,82,132,Late Blight
+Tomato,Sandy,6.5,19,73,24,Early Blight
+Potato,Sandy,5.8,23,89,30,Early Blight
+Tomato,Clay,6.4,32,74,118,Early Blight
+Potato,Sandy,6.3,30,83,106,Late Blight
+Potato,Loamy,6.2,26,87,98,Early Blight
+Tomato,Clay,6.4,28,62,110,Healthy
+Tomato,Sandy,6.6,26,60,133,Healthy
+Pepper,Sandy,6.3,32,67,40,Healthy
+Pepper,Sandy,5.5,21,67,38,Healthy
+Tomato,Loamy,5.6,29,76,43,Early Blight
+Tomato,Loamy,6.7,33,57,22,Healthy
+Tomato,Sandy,7.0,24,86,170,Late Blight
+Pepper,Loamy,7.0,19,91,144,Bacterial Leaf Spot
+Pepper,Clay,5.7,25,59,32,Healthy
+Pepper,Clay,7.1,34,94,27,Bacterial Spot
+Tomato,Loamy,6.5,29,89,21,Early Blight
+Potato,Loamy,6.6,27,65,31,Healthy
+Potato,Clay,7.1,19,77,29,Early Blight
+Potato,Loamy,6.5,24,82,138,Late Blight
+Tomato,Clay,6.7,25,95,127,Late Blight
+Potato,Sandy,5.6,31,91,129,Late Blight
+Potato,Loamy,5.5,33,77,73,Early Blight
+Potato,Loamy,6.2,28,89,116,Late Blight
+Potato,Clay,6.6,35,61,64,Healthy
+Tomato,Clay,5.8,31,94,43,Early Blight
+Potato,Sandy,5.9,26,71,63,Early Blight
+Pepper,Clay,7.0,34,59,37,Healthy
+Potato,Sandy,6.1,19,70,57,Healthy
+Tomato,Clay,6.1,23,85,120,Late Blight
+Pepper,Loamy,6.3,24,63,116,Healthy
+Pepper,Clay,6.1,31,66,150,Healthy
+Tomato,Clay,7.1,19,63,53,Healthy
+Tomato,Sandy,6.8,32,79,72,Early Blight
+Tomato,Loamy,5.6,31,87,115,Late Blight
+Pepper,Sandy,5.6,22,56,159,Healthy
+Potato,Loamy,6.1,34,89,148,Late Blight
+Tomato,Loamy,5.9,21,74,14,Early Blight
+Pepper,Clay,5.8,23,94,127,Bacterial Leaf Spot
+Potato,Clay,6.9,35,58,175,Healthy
+Tomato,Clay,6.9,33,58,22,Healthy
+Potato,Clay,6.5,20,71,31,Early Blight
+Pepper,Clay,5.8,24,87,96,Bacterial Spot
+Pepper,Loamy,6.8,29,87,106,Bacterial Leaf Spot
+Pepper,Sandy,6.6,31,63,76,Healthy
+Pepper,Clay,6.9,29,90,164,Bacterial Leaf Spot
+Tomato,Sandy,7.0,31,95,180,Late Blight
+Pepper,Clay,7.1,35,68,93,Healthy
+Tomato,Loamy,7.0,28,93,41,Early Blight
+Potato,Loamy,6.5,30,65,143,Healthy
+Pepper,Clay,5.5,27,66,165,Healthy
+Tomato,Loamy,6.1,20,78,74,Early Blight
+Potato,Clay,7.0,18,95,146,Late Blight
+Tomato,Sandy,6.9,19,61,120,Healthy
+Potato,Loamy,7.2,25,77,64,Early Blight
+Pepper,Sandy,5.9,19,69,138,Healthy
+Pepper,Loamy,5.6,33,76,45,Bacterial Spot
+Pepper,Clay,6.9,35,94,165,Bacterial Leaf Spot
+Potato,Loamy,5.8,20,59,119,Healthy
+Potato,Clay,6.3,29,77,99,Early Blight
+Potato,Loamy,6.7,35,56,140,Healthy
+Pepper,Sandy,6.3,35,67,103,Healthy
+Potato,Loamy,6.7,21,80,157,Early Blight
+Pepper,Clay,5.5,33,79,13,Bacterial Spot
+Pepper,Sandy,6.4,28,93,36,Bacterial Spot
+Tomato,Loamy,6.7,23,88,154,Late Blight
+Potato,Sandy,5.6,24,95,87,Early Blight
+Tomato,Sandy,6.8,30,86,175,Late Blight
+Pepper,Clay,6.5,21,93,160,Bacterial Leaf Spot
+Potato,Sandy,6.1,30,62,59,Healthy
+Tomato,Sandy,7.1,26,66,86,Healthy
+Tomato,Loamy,7.1,31,78,80,Early Blight
+Tomato,Sandy,7.2,27,74,27,Early Blight
+Tomato,Sandy,7.0,35,77,103,Early Blight
+Pepper,Loamy,6.4,29,60,53,Healthy
+Tomato,Loamy,7.1,23,56,160,Healthy
+Potato,Sandy,7.1,27,66,83,Healthy
+Tomato,Sandy,6.1,20,94,132,Late Blight
+Pepper,Clay,6.8,32,73,148,Bacterial Spot
+Pepper,Clay,6.7,32,63,160,Healthy
+Pepper,Loamy,5.8,22,68,161,Healthy
+Potato,Clay,6.0,18,85,54,Early Blight
+Potato,Loamy,6.8,30,84,19,Early Blight
+Tomato,Sandy,7.1,23,94,64,Early Blight
+Potato,Loamy,6.4,30,55,116,Healthy
+Tomato,Loamy,6.0,19,72,142,Early Blight
+Potato,Loamy,5.8,28,64,62,Healthy
+Pepper,Loamy,7.1,27,63,114,Healthy
+Tomato,Loamy,6.8,26,57,35,Healthy
+Pepper,Loamy,6.1,30,68,164,Healthy
+Pepper,Loamy,7.1,19,61,158,Healthy
+Pepper,Clay,5.6,26,92,43,Bacterial Spot
+Tomato,Clay,5.7,22,66,43,Healthy
+Potato,Sandy,6.4,27,79,143,Early Blight
+Potato,Clay,6.1,27,87,170,Late Blight
+Pepper,Loamy,7.2,19,69,84,Healthy
+Tomato,Clay,5.5,20,67,176,Healthy
+Pepper,Loamy,5.8,19,92,50,Bacterial Spot
+Pepper,Clay,6.6,24,64,35,Healthy
+Potato,Loamy,6.1,34,78,163,Early Blight
+Pepper,Sandy,7.0,34,61,63,Healthy
+Potato,Loamy,7.0,18,84,54,Early Blight
+Pepper,Loamy,5.7,26,73,116,Bacterial Spot
+Tomato,Loamy,6.7,22,68,95,Healthy
+Potato,Loamy,6.2,20,90,129,Late Blight
+Potato,Sandy,5.8,33,84,127,Late Blight
+Tomato,Loamy,5.6,26,92,18,Early Blight
+Pepper,Clay,6.1,19,75,39,Bacterial Spot
+Pepper,Loamy,5.9,28,81,64,Bacterial Spot
+Tomato,Sandy,6.7,25,58,110,Healthy
+Tomato,Clay,6.9,31,86,66,Early Blight
+Potato,Loamy,6.1,26,60,137,Healthy
+Tomato,Sandy,6.6,19,88,26,Early Blight
+Tomato,Sandy,6.9,25,61,114,Healthy
+Pepper,Loamy,6.0,30,55,94,Healthy
+Tomato,Clay,5.7,34,68,99,Healthy
+Potato,Loamy,6.2,22,77,172,Early Blight
+Tomato,Sandy,6.0,24,74,57,Early Blight
+Tomato,Clay,6.7,20,60,66,Healthy
+Potato,Loamy,6.8,29,84,141,Late Blight
+Potato,Sandy,6.6,35,70,115,Healthy
+Potato,Loamy,6.9,25,88,43,Early Blight
+Pepper,Clay,7.0,27,59,25,Healthy
+Tomato,Clay,5.9,29,73,140,Early Blight
+Pepper,Loamy,6.8,22,69,66,Healthy
+Tomato,Clay,6.3,28,71,145,Early Blight
+Pepper,Loamy,6.3,34,83,139,Bacterial Leaf Spot
+Tomato,Clay,6.1,18,90,47,Early Blight
+Tomato,Loamy,6.4,25,89,103,Late Blight
+Potato,Clay,5.6,31,61,159,Healthy
+Potato,Clay,6.2,18,95,16,Early Blight
+Potato,Clay,6.8,25,88,150,Late Blight
+Pepper,Sandy,6.0,32,92,148,Bacterial Leaf Spot
+Pepper,Clay,7.0,25,70,38,Healthy
+Tomato,Loamy,7.1,30,95,158,Late Blight
+Pepper,Loamy,6.8,18,62,105,Healthy
+Potato,Clay,7.1,33,89,19,Early Blight
+Pepper,Sandy,6.8,21,93,69,Bacterial Spot
+Potato,Clay,6.5,24,86,132,Late Blight
+Pepper,Clay,6.4,24,78,94,Bacterial Spot
+Potato,Sandy,7.2,33,72,166,Early Blight
+Pepper,Sandy,6.2,23,76,89,Bacterial Spot
+Pepper,Sandy,6.3,23,81,171,Bacterial Leaf Spot
+Pepper,Sandy,6.0,27,89,180,Bacterial Leaf Spot
+Pepper,Loamy,5.7,35,74,151,Bacterial Spot
+Potato,Loamy,6.0,31,70,108,Healthy
+Pepper,Sandy,6.7,23,77,79,Bacterial Spot
+Pepper,Loamy,5.7,33,88,87,Bacterial Spot
+Tomato,Loamy,5.6,27,59,43,Healthy
+Pepper,Clay,5.9,34,86,15,Bacterial Spot
+Potato,Clay,6.1,18,65,82,Healthy
+Potato,Clay,6.4,35,75,89,Early Blight
+Potato,Loamy,7.1,34,88,101,Late Blight
+Pepper,Sandy,7.1,35,63,113,Healthy
+Pepper,Clay,7.1,34,81,30,Bacterial Spot
+Pepper,Clay,5.5,23,73,81,Bacterial Spot
+Potato,Clay,6.1,35,78,42,Early Blight
+Tomato,Loamy,6.7,18,76,113,Early Blight
+Pepper,Loamy,7.1,26,78,134,Bacterial Spot
+Pepper,Loamy,7.2,29,92,19,Bacterial Spot
+Tomato,Clay,7.1,27,86,142,Late Blight
+Potato,Clay,6.5,20,72,64,Early Blight
+Pepper,Sandy,7.1,21,58,76,Healthy
+Tomato,Loamy,6.0,24,69,42,Healthy
+Pepper,Clay,6.7,24,94,20,Bacterial Spot
+Pepper,Clay,6.4,23,57,56,Healthy
+Pepper,Loamy,5.5,28,73,137,Bacterial Spot
+Potato,Sandy,7.2,30,75,108,Early Blight
+Pepper,Sandy,6.4,30,84,75,Bacterial Spot
+Potato,Loamy,6.2,28,84,103,Late Blight
+Pepper,Clay,7.1,22,80,61,Bacterial Spot
+Tomato,Sandy,6.7,35,84,138,Late Blight
+Pepper,Loamy,7.2,32,78,49,Bacterial Spot
+Pepper,Sandy,6.8,19,61,102,Healthy
+Potato,Clay,6.3,33,74,161,Early Blight
+Potato,Loamy,6.1,26,84,109,Late Blight
+Potato,Clay,7.0,26,59,87,Healthy
+Tomato,Clay,6.9,30,67,80,Healthy
+Tomato,Sandy,5.6,25,76,50,Early Blight
+Potato,Loamy,6.4,18,63,154,Healthy
+Potato,Sandy,6.2,34,70,177,Healthy
+Tomato,Loamy,5.8,18,58,101,Healthy
+Potato,Sandy,6.1,27,92,77,Early Blight
+Potato,Loamy,6.4,28,64,104,Healthy
+Potato,Clay,5.5,32,84,79,Early Blight
+Pepper,Sandy,5.7,20,74,57,Bacterial Spot
+Potato,Loamy,6.7,23,90,135,Late Blight
+Potato,Clay,7.0,21,65,17,Healthy
+Potato,Clay,6.8,18,94,75,Early Blight
+Tomato,Sandy,6.1,26,88,24,Early Blight
+Pepper,Loamy,6.5,20,68,175,Healthy
+Potato,Sandy,5.9,27,64,20,Healthy
+Potato,Clay,5.8,22,78,145,Early Blight
+Tomato,Loamy,6.4,28,92,104,Late Blight
+Pepper,Sandy,6.6,18,85,165,Bacterial Leaf Spot
+Pepper,Loamy,5.8,30,87,149,Bacterial Leaf Spot
+Pepper,Loamy,6.3,29,72,153,Bacterial Spot
+Potato,Clay,7.0,26,55,172,Healthy
+Potato,Clay,6.6,25,64,78,Healthy
+Potato,Clay,6.9,35,70,107,Healthy
+Potato,Loamy,6.4,31,68,160,Healthy
+Pepper,Clay,6.8,35,56,80,Healthy
+Pepper,Clay,6.0,25,79,31,Bacterial Spot
+Potato,Clay,6.8,33,90,54,Early Blight
+Pepper,Loamy,6.9,23,76,31,Bacterial Spot
+Pepper,Loamy,6.5,22,63,51,Healthy
+Potato,Sandy,6.3,35,66,112,Healthy
+Potato,Sandy,6.4,22,81,145,Late Blight
+Pepper,Loamy,5.8,26,71,139,Bacterial Spot
+Potato,Loamy,6.8,20,84,107,Late Blight
+Potato,Clay,6.0,32,68,157,Healthy
+Tomato,Loamy,5.8,34,78,125,Early Blight
+Potato,Sandy,6.5,24,83,180,Late Blight
+Pepper,Sandy,6.2,23,77,32,Bacterial Spot
+Potato,Loamy,6.4,28,66,51,Healthy
+Pepper,Sandy,7.0,19,85,15,Bacterial Spot
+Tomato,Clay,6.6,25,85,50,Early Blight
+Tomato,Clay,6.5,35,77,90,Early Blight
+Pepper,Sandy,6.9,31,92,172,Bacterial Leaf Spot
+Pepper,Loamy,5.6,32,67,44,Healthy
+Potato,Clay,7.1,20,86,132,Late Blight
+Potato,Clay,5.6,33,87,118,Late Blight
+Potato,Loamy,6.2,30,79,180,Early Blight
+Potato,Sandy,6.2,31,72,145,Early Blight
+Potato,Loamy,6.2,32,71,80,Early Blight
+Pepper,Clay,7.0,30,95,123,Bacterial Leaf Spot
+Potato,Loamy,6.1,25,76,145,Early Blight
+Pepper,Sandy,6.9,25,80,66,Bacterial Spot
+Potato,Sandy,6.6,32,83,82,Early Blight
+Pepper,Sandy,5.7,18,83,93,Bacterial Spot
+Potato,Sandy,6.0,30,81,59,Early Blight
+Pepper,Sandy,5.5,35,84,60,Bacterial Spot
+Potato,Clay,6.7,20,58,144,Healthy
+Pepper,Clay,6.1,25,67,44,Healthy
+Tomato,Clay,6.2,33,57,42,Healthy
+Pepper,Sandy,5.8,34,85,66,Bacterial Spot
+Potato,Loamy,6.4,22,56,163,Healthy
+Pepper,Loamy,6.4,23,64,22,Healthy
+Potato,Clay,5.7,21,58,54,Healthy
+Tomato,Clay,6.3,33,57,133,Healthy
+Potato,Loamy,5.7,30,58,156,Healthy
+Tomato,Clay,6.6,23,86,90,Early Blight
+Pepper,Sandy,5.6,33,63,38,Healthy
+Tomato,Clay,5.7,27,88,154,Late Blight
+Tomato,Loamy,5.8,34,71,10,Early Blight
+Pepper,Loamy,6.9,30,90,72,Bacterial Spot
+Tomato,Clay,5.6,18,79,67,Early Blight
+Pepper,Loamy,6.9,23,88,16,Bacterial Spot
+Pepper,Sandy,6.9,18,80,124,Bacterial Spot
+Pepper,Clay,5.5,19,67,133,Healthy
+Pepper,Loamy,6.2,31,95,12,Bacterial Spot
+Potato,Loamy,6.7,33,64,117,Healthy
+Potato,Loamy,5.8,23,67,137,Healthy
+Pepper,Clay,6.6,27,80,97,Bacterial Spot
+Potato,Loamy,6.7,31,92,95,Early Blight
+Potato,Loamy,6.9,33,86,170,Late Blight
+Tomato,Clay,6.8,19,94,144,Late Blight
+Potato,Loamy,5.9,27,81,127,Late Blight
+Pepper,Clay,7.1,18,83,93,Bacterial Spot
+Pepper,Clay,6.0,24,65,166,Healthy
+Potato,Clay,6.5,23,74,67,Early Blight
+Potato,Sandy,5.6,28,79,47,Early Blight
+Potato,Loamy,5.7,28,90,145,Late Blight
+Pepper,Sandy,7.2,35,72,106,Bacterial Spot
+Tomato,Loamy,6.3,27,56,46,Healthy
+Potato,Loamy,6.1,19,84,24,Early Blight
+Pepper,Loamy,6.8,35,86,23,Bacterial Spot
+Tomato,Loamy,6.0,28,87,99,Early Blight
+Pepper,Sandy,5.6,26,88,177,Bacterial Leaf Spot
+Tomato,Loamy,5.7,19,59,103,Healthy
+Pepper,Clay,6.5,21,68,180,Healthy
+Tomato,Sandy,7.1,32,71,109,Early Blight
+Pepper,Loamy,6.7,23,79,46,Bacterial Spot
+Pepper,Sandy,5.6,29,61,94,Healthy
+Tomato,Loamy,5.8,35,87,54,Early Blight
+Potato,Clay,7.1,23,89,52,Early Blight
+Tomato,Sandy,7.0,32,77,124,Early Blight
+Potato,Loamy,6.5,18,86,175,Late Blight
+Tomato,Loamy,6.8,23,69,78,Healthy
+Tomato,Loamy,5.8,20,89,34,Early Blight
+Potato,Loamy,6.3,33,82,43,Early Blight
+Pepper,Loamy,7.2,34,93,174,Bacterial Leaf Spot
+Potato,Loamy,6.3,21,87,176,Late Blight
+Pepper,Loamy,5.7,21,88,165,Bacterial Leaf Spot
+Tomato,Loamy,6.4,29,75,80,Early Blight
+Tomato,Clay,5.6,26,74,129,Early Blight
+Tomato,Sandy,5.9,20,80,104,Early Blight
+Tomato,Sandy,5.5,20,93,14,Early Blight
+Pepper,Sandy,5.6,25,55,128,Healthy
+Tomato,Sandy,5.6,20,85,59,Early Blight
+Pepper,Clay,5.8,31,79,143,Bacterial Spot
+Pepper,Loamy,5.7,21,74,96,Bacterial Spot
+Pepper,Clay,6.4,29,92,75,Bacterial Spot
+Potato,Sandy,6.8,35,83,99,Early Blight
+Pepper,Loamy,6.1,25,75,111,Bacterial Spot
+Pepper,Sandy,6.8,35,92,41,Bacterial Spot
+Pepper,Sandy,6.7,21,86,115,Bacterial Leaf Spot
+Potato,Clay,6.9,33,62,73,Healthy
+Pepper,Clay,6.6,34,70,131,Healthy
+Tomato,Clay,6.2,28,83,149,Late Blight
+Pepper,Loamy,6.2,30,88,14,Bacterial Spot
+Tomato,Sandy,6.1,33,83,124,Late Blight
+Potato,Clay,6.3,25,62,96,Healthy
+Potato,Sandy,6.4,24,88,159,Late Blight
+Pepper,Loamy,7.2,21,60,139,Healthy
+Potato,Clay,5.8,24,93,147,Late Blight
+Potato,Clay,5.9,20,62,168,Healthy
+Pepper,Loamy,5.5,19,86,41,Bacterial Spot
+Potato,Sandy,7.2,19,89,21,Early Blight
+Potato,Loamy,6.0,29,80,129,Early Blight
+Tomato,Clay,5.8,27,88,60,Early Blight
+Tomato,Loamy,6.1,18,67,92,Healthy
+Potato,Loamy,6.3,34,67,22,Healthy
+Pepper,Loamy,5.6,25,77,121,Bacterial Spot
+Tomato,Clay,6.0,20,59,34,Healthy
+Pepper,Loamy,6.3,31,89,89,Bacterial Spot
+Pepper,Loamy,6.3,20,75,103,Bacterial Spot
+Tomato,Clay,5.8,22,74,37,Early Blight
+Tomato,Clay,6.3,23,57,163,Healthy
+Pepper,Clay,6.4,31,91,111,Bacterial Leaf Spot
+Pepper,Loamy,6.5,34,92,18,Bacterial Spot
+Tomato,Sandy,5.8,23,57,159,Healthy
+Tomato,Sandy,6.8,35,59,152,Healthy
+Potato,Sandy,6.4,19,93,153,Late Blight
+Potato,Clay,7.2,33,75,50,Early Blight
+Tomato,Clay,6.7,25,79,44,Early Blight
+Pepper,Clay,5.9,30,77,51,Bacterial Spot
+Tomato,Clay,6.2,27,79,55,Early Blight
+Tomato,Sandy,6.0,35,77,55,Early Blight
+Potato,Sandy,7.0,18,93,144,Late Blight
+Potato,Loamy,6.1,35,83,17,Early Blight
+Potato,Loamy,7.0,24,86,161,Late Blight
+Potato,Loamy,6.9,23,67,146,Healthy
+Tomato,Loamy,5.8,21,79,152,Early Blight
+Pepper,Sandy,5.8,31,59,146,Healthy
+Potato,Sandy,5.9,34,66,53,Healthy
+Tomato,Loamy,6.5,23,70,175,Healthy
+Tomato,Loamy,6.3,21,82,101,Late Blight
+Potato,Clay,6.4,28,80,141,Early Blight
+Tomato,Clay,6.0,31,93,180,Late Blight
+Pepper,Sandy,7.0,35,69,131,Healthy
+Pepper,Sandy,6.4,21,80,80,Bacterial Spot
+Tomato,Sandy,7.2,35,77,104,Early Blight
+Potato,Clay,6.1,32,66,119,Healthy
+Pepper,Sandy,5.9,32,56,103,Healthy
+Potato,Loamy,6.0,31,66,143,Healthy
+Pepper,Sandy,5.8,22,82,14,Bacterial Spot
+Tomato,Clay,6.7,30,75,129,Early Blight
+Tomato,Loamy,6.6,29,58,17,Healthy
+Potato,Loamy,6.5,30,91,104,Late Blight
+Pepper,Clay,6.6,24,73,171,Bacterial Spot
+Tomato,Loamy,6.8,26,77,156,Early Blight
+Potato,Loamy,6.7,29,78,76,Early Blight
+Potato,Sandy,5.5,25,79,29,Early Blight
+Pepper,Loamy,5.9,22,88,143,Bacterial Leaf Spot
+Pepper,Clay,6.6,32,82,180,Bacterial Leaf Spot
+Potato,Clay,6.9,24,80,135,Early Blight
+Tomato,Clay,6.5,28,70,69,Healthy
+Tomato,Loamy,6.4,26,89,103,Late Blight
+Pepper,Sandy,6.9,19,74,68,Bacterial Spot
+Tomato,Clay,6.5,24,75,118,Early Blight
+Potato,Loamy,6.4,20,69,149,Healthy
+Potato,Loamy,7.0,33,77,21,Early Blight
+Potato,Clay,5.9,31,80,127,Early Blight
+Pepper,Clay,6.9,25,81,141,Bacterial Leaf Spot
+Potato,Clay,6.3,21,80,163,Early Blight
+Pepper,Sandy,6.1,26,67,35,Healthy
+Pepper,Loamy,7.1,18,88,38,Bacterial Spot
+Tomato,Loamy,6.0,18,56,46,Healthy
+Pepper,Clay,7.0,26,68,25,Healthy
+Potato,Clay,7.0,24,72,80,Early Blight
+Pepper,Loamy,7.2,34,93,41,Bacterial Spot
+Potato,Clay,5.7,31,65,25,Healthy
+Tomato,Clay,6.9,31,85,158,Late Blight
+Potato,Loamy,5.7,29,77,13,Early Blight
+Pepper,Clay,5.6,25,76,89,Bacterial Spot
+Pepper,Loamy,6.8,29,71,119,Bacterial Spot
+Tomato,Clay,7.0,30,77,121,Early Blight
+Pepper,Sandy,5.8,19,82,93,Bacterial Spot
+Potato,Sandy,6.1,28,67,143,Healthy
+Tomato,Loamy,6.6,24,63,152,Healthy
+Potato,Sandy,6.7,32,78,163,Early Blight
+Pepper,Loamy,5.9,21,62,65,Healthy
+Potato,Loamy,6.1,21,90,87,Early Blight
+Tomato,Clay,6.8,20,91,25,Early Blight
+Tomato,Loamy,5.6,25,56,164,Healthy
+Pepper,Clay,6.2,29,67,38,Healthy
+Tomato,Loamy,6.3,25,85,172,Late Blight
+Pepper,Loamy,6.3,34,82,16,Bacterial Spot
+Pepper,Loamy,6.3,34,91,67,Bacterial Spot
+Pepper,Loamy,5.5,32,59,172,Healthy
+Pepper,Clay,5.7,35,76,144,Bacterial Spot
+Pepper,Sandy,5.9,35,78,92,Bacterial Spot
+Tomato,Loamy,6.1,24,57,180,Healthy
+Pepper,Loamy,6.0,31,91,69,Bacterial Spot
+Potato,Clay,6.3,34,88,124,Late Blight
+Pepper,Sandy,6.1,21,93,172,Bacterial Leaf Spot
+Potato,Loamy,5.7,20,62,147,Healthy
+Tomato,Clay,5.7,33,58,146,Healthy
+Tomato,Sandy,6.0,30,93,126,Late Blight
+Pepper,Loamy,6.1,27,75,133,Bacterial Spot
+Potato,Loamy,6.3,30,85,13,Early Blight
+Pepper,Sandy,6.3,26,89,143,Bacterial Leaf Spot
+Tomato,Sandy,6.4,20,88,39,Early Blight
+Pepper,Loamy,6.5,23,84,17,Bacterial Spot
+Tomato,Sandy,6.5,24,87,72,Early Blight
+Tomato,Loamy,6.5,22,65,78,Healthy
+Potato,Loamy,5.8,33,59,100,Healthy
+Tomato,Sandy,6.4,24,69,54,Healthy
+Potato,Sandy,5.9,21,90,154,Late Blight
+Potato,Sandy,5.9,26,83,62,Early Blight
+Tomato,Sandy,6.4,24,78,82,Early Blight
+Pepper,Sandy,6.7,20,62,111,Healthy
+Potato,Clay,5.8,32,59,177,Healthy
+Tomato,Loamy,5.9,34,82,88,Early Blight
+Potato,Loamy,6.1,21,73,178,Early Blight
+Pepper,Clay,6.7,20,72,177,Bacterial Spot
+Pepper,Sandy,6.1,30,85,128,Bacterial Leaf Spot
+Tomato,Clay,6.5,19,55,82,Healthy
+Pepper,Sandy,7.2,18,74,168,Bacterial Spot
+Potato,Sandy,6.4,32,82,172,Late Blight
+Tomato,Loamy,6.9,27,70,101,Healthy
+Tomato,Sandy,5.9,28,69,131,Healthy
+Potato,Loamy,6.3,18,77,115,Early Blight
+Tomato,Loamy,6.6,22,86,146,Late Blight
+Potato,Clay,6.7,27,68,104,Healthy
+Pepper,Sandy,6.4,21,71,105,Bacterial Spot
+Tomato,Loamy,6.2,21,93,116,Late Blight
+Pepper,Sandy,5.9,32,77,48,Bacterial Spot
+Pepper,Clay,6.9,26,55,15,Healthy
+Pepper,Clay,6.8,22,69,155,Healthy
+Potato,Sandy,7.0,20,68,108,Healthy
+Potato,Loamy,6.5,30,66,96,Healthy
+Potato,Sandy,5.9,27,94,122,Late Blight
+Pepper,Loamy,5.6,21,70,29,Healthy
+Pepper,Clay,5.7,23,85,62,Bacterial Spot
+Tomato,Loamy,5.8,27,69,172,Healthy
+Tomato,Sandy,6.4,23,59,111,Healthy
+Tomato,Sandy,6.3,27,86,149,Late Blight
+Potato,Loamy,6.0,29,65,73,Healthy
+Potato,Loamy,6.5,30,75,101,Early Blight
+Potato,Clay,6.9,31,92,20,Early Blight
+Pepper,Sandy,6.6,20,71,105,Bacterial Spot
+Tomato,Sandy,7.0,19,60,126,Healthy
+Pepper,Sandy,6.5,31,81,14,Bacterial Spot
+Tomato,Loamy,6.5,35,90,122,Late Blight
+Pepper,Loamy,6.3,20,87,172,Bacterial Leaf Spot
+Pepper,Clay,5.8,32,61,130,Healthy
+Pepper,Loamy,6.3,34,90,114,Bacterial Leaf Spot
+Tomato,Loamy,6.5,21,61,102,Healthy
+Tomato,Sandy,6.3,24,90,165,Late Blight
+Potato,Clay,5.5,35,84,39,Early Blight
+Tomato,Clay,6.6,19,63,50,Healthy
+Pepper,Clay,5.6,26,70,11,Healthy
+Potato,Sandy,6.2,31,86,22,Early Blight
+Pepper,Clay,6.2,20,65,93,Healthy
+Potato,Sandy,7.0,25,66,44,Healthy
+Pepper,Clay,6.9,25,89,50,Bacterial Spot
+Tomato,Sandy,7.0,24,72,46,Early Blight
+Pepper,Loamy,5.8,23,82,49,Bacterial Spot
+Pepper,Sandy,6.6,35,75,136,Bacterial Spot
+Potato,Sandy,6.2,24,58,46,Healthy
+Tomato,Loamy,5.7,22,67,145,Healthy
+Pepper,Loamy,6.3,30,56,73,Healthy
+Pepper,Clay,6.7,33,64,36,Healthy
+Pepper,Clay,6.6,31,86,97,Bacterial Spot
+Pepper,Clay,6.8,19,94,175,Bacterial Leaf Spot
+Pepper,Clay,5.6,35,95,77,Bacterial Spot
+Pepper,Loamy,6.6,20,63,172,Healthy
+Tomato,Loamy,7.0,29,79,164,Early Blight
+Tomato,Sandy,6.5,32,66,178,Healthy
+Tomato,Sandy,6.8,21,71,87,Early Blight
+Potato,Loamy,6.4,18,94,178,Late Blight
+Potato,Sandy,6.6,20,59,100,Healthy
+Pepper,Loamy,6.0,31,56,106,Healthy
+Potato,Sandy,5.8,19,81,162,Late Blight
+Potato,Sandy,6.9,34,58,128,Healthy
+Pepper,Sandy,5.8,30,90,10,Bacterial Spot
+Tomato,Loamy,5.5,31,59,78,Healthy
+Potato,Sandy,7.0,34,73,145,Early Blight
+Tomato,Sandy,6.8,35,89,50,Early Blight
+Pepper,Loamy,7.0,28,71,76,Bacterial Spot
+Tomato,Sandy,7.0,29,64,153,Healthy
+Potato,Sandy,5.6,20,64,19,Healthy
+Pepper,Loamy,6.4,34,61,36,Healthy
+Potato,Loamy,6.7,24,80,142,Early Blight
+Pepper,Clay,5.9,18,74,45,Bacterial Spot
+Potato,Loamy,6.8,20,58,58,Healthy
+Pepper,Sandy,6.8,20,86,80,Bacterial Spot
+Pepper,Clay,6.2,18,85,34,Bacterial Spot
+Pepper,Loamy,7.2,26,58,26,Healthy
+Potato,Sandy,7.1,24,89,155,Late Blight
+Potato,Clay,5.9,28,90,13,Early Blight
+Tomato,Loamy,7.1,27,65,168,Healthy
+Potato,Loamy,6.2,34,70,63,Healthy
+Pepper,Sandy,6.4,19,82,119,Bacterial Leaf Spot
+Pepper,Loamy,6.9,27,94,175,Bacterial Leaf Spot
+Pepper,Clay,7.1,25,90,19,Bacterial Spot
+Potato,Loamy,5.7,32,69,10,Healthy
+Potato,Clay,6.7,33,64,109,Healthy
+Potato,Loamy,6.5,19,85,102,Late Blight
+Tomato,Sandy,6.2,24,83,115,Late Blight
+Potato,Loamy,6.1,25,68,88,Healthy
+Pepper,Clay,5.9,20,86,103,Bacterial Leaf Spot
+Potato,Sandy,5.8,20,92,106,Late Blight
+Tomato,Sandy,7.1,28,90,169,Late Blight
+Pepper,Clay,6.0,23,72,82,Bacterial Spot
+Pepper,Clay,6.5,21,73,158,Bacterial Spot
+Tomato,Clay,5.6,34,90,31,Early Blight
+Tomato,Sandy,7.2,18,64,150,Healthy
+Tomato,Sandy,7.2,18,90,46,Early Blight
+Tomato,Sandy,7.1,23,95,110,Late Blight
+Pepper,Clay,7.0,29,86,128,Bacterial Leaf Spot
+Tomato,Loamy,6.3,32,69,76,Healthy
+Potato,Sandy,6.9,30,64,23,Healthy
+Pepper,Sandy,6.1,24,69,96,Healthy
+Potato,Loamy,6.0,27,65,75,Healthy
+Pepper,Sandy,6.3,30,94,156,Bacterial Leaf Spot
+Tomato,Clay,6.5,20,70,43,Healthy
+Pepper,Clay,5.7,28,64,24,Healthy
+Tomato,Sandy,6.0,18,69,176,Healthy
+Pepper,Sandy,6.8,30,63,52,Healthy
+Tomato,Clay,6.4,34,71,51,Early Blight
+Pepper,Sandy,6.0,28,81,20,Bacterial Spot
+Potato,Clay,7.1,34,73,150,Early Blight
+Pepper,Clay,6.2,18,55,56,Healthy
+Pepper,Sandy,6.7,19,75,46,Bacterial Spot
+Pepper,Sandy,6.1,33,88,71,Bacterial Spot
+Pepper,Clay,6.9,19,56,103,Healthy
+Potato,Sandy,6.0,32,68,29,Healthy
+Pepper,Clay,7.1,31,69,44,Healthy
+Potato,Sandy,7.1,28,70,135,Healthy
+Tomato,Clay,7.1,18,88,107,Late Blight
+Potato,Clay,6.7,19,61,15,Healthy
+Tomato,Clay,6.6,24,88,176,Late Blight
+Pepper,Loamy,6.4,22,76,29,Bacterial Spot
+Potato,Loamy,6.6,33,83,162,Late Blight
+Tomato,Loamy,5.9,19,87,143,Late Blight
+Potato,Clay,6.5,19,74,167,Early Blight
+Pepper,Loamy,6.4,25,71,83,Bacterial Spot
+Tomato,Clay,6.9,30,59,137,Healthy
+Pepper,Clay,6.7,24,94,65,Bacterial Spot
+Tomato,Loamy,6.9,29,71,37,Early Blight
+Tomato,Loamy,6.7,27,79,94,Early Blight
+Pepper,Loamy,6.8,20,85,33,Bacterial Spot
+Tomato,Clay,6.5,26,66,122,Healthy
+Pepper,Loamy,6.4,33,78,100,Bacterial Spot
+Potato,Loamy,6.5,21,55,50,Healthy
+Pepper,Sandy,6.3,35,71,41,Bacterial Spot
+Pepper,Loamy,5.6,31,67,109,Healthy
+Pepper,Clay,7.1,32,65,12,Healthy
+Tomato,Clay,6.2,28,84,111,Late Blight
+Potato,Sandy,6.0,35,81,133,Late Blight
+Potato,Clay,5.7,35,74,159,Early Blight
+Pepper,Loamy,6.8,20,92,168,Bacterial Leaf Spot
+Pepper,Sandy,5.6,20,55,142,Healthy
+Tomato,Sandy,6.9,32,78,155,Early Blight
+Tomato,Sandy,6.0,20,57,134,Healthy
+Potato,Clay,5.6,22,70,169,Healthy
+Potato,Clay,7.0,20,92,126,Late Blight
+Tomato,Sandy,6.0,22,91,68,Early Blight
+Tomato,Clay,6.7,21,89,164,Late Blight
+Pepper,Loamy,5.9,32,67,83,Healthy
+Potato,Clay,5.6,23,64,160,Healthy
+Tomato,Loamy,6.6,22,90,138,Late Blight
+Tomato,Sandy,6.3,24,94,136,Late Blight
+Pepper,Clay,6.3,34,92,128,Bacterial Leaf Spot
+Pepper,Sandy,6.3,19,74,33,Bacterial Spot
+Tomato,Loamy,5.8,22,89,19,Early Blight
+Tomato,Clay,5.7,24,87,68,Early Blight
+Pepper,Clay,7.2,21,80,38,Bacterial Spot
+Pepper,Sandy,6.3,25,80,17,Bacterial Spot
+Tomato,Clay,5.8,23,71,170,Early Blight
+Tomato,Sandy,7.1,25,64,139,Healthy
+Tomato,Loamy,6.7,30,87,34,Early Blight
+Potato,Sandy,5.7,33,68,104,Healthy
+Tomato,Sandy,6.2,25,56,140,Healthy
+Potato,Sandy,6.2,19,71,89,Early Blight
+Potato,Sandy,5.7,25,93,156,Late Blight
+Potato,Clay,6.3,33,68,106,Healthy
+Tomato,Loamy,5.5,22,58,118,Healthy
+Pepper,Sandy,5.6,21,55,38,Healthy
+Pepper,Sandy,6.8,30,70,122,Healthy
+Tomato,Sandy,5.8,29,90,107,Late Blight
+Pepper,Sandy,6.8,29,68,19,Healthy
+Tomato,Sandy,6.1,32,66,54,Healthy
+Tomato,Sandy,6.5,21,76,102,Early Blight
+Potato,Clay,5.6,25,69,64,Healthy
+Tomato,Clay,5.7,32,66,55,Healthy
+Pepper,Loamy,5.6,32,70,124,Healthy
+Tomato,Sandy,6.7,34,85,31,Early Blight
+Tomato,Loamy,5.7,24,89,20,Early Blight
+Potato,Clay,6.5,18,81,142,Late Blight
+Pepper,Sandy,5.7,27,83,145,Bacterial Leaf Spot
+Pepper,Loamy,5.6,26,85,19,Bacterial Spot
+Pepper,Loamy,6.3,27,83,93,Bacterial Spot
+Pepper,Sandy,6.6,20,79,19,Bacterial Spot
+Tomato,Sandy,6.6,21,92,105,Late Blight
+Potato,Sandy,6.9,29,66,116,Healthy
+Pepper,Sandy,5.9,29,93,15,Bacterial Spot
+Pepper,Clay,5.9,23,93,32,Bacterial Spot
+Tomato,Loamy,6.4,19,81,64,Early Blight
+Pepper,Sandy,6.4,20,65,30,Healthy
+Potato,Clay,6.5,20,85,162,Late Blight
+Pepper,Loamy,5.7,29,58,96,Healthy
+Tomato,Clay,6.2,18,59,140,Healthy
+Tomato,Loamy,6.8,28,69,123,Healthy
+Tomato,Loamy,6.1,26,79,22,Early Blight
+Pepper,Sandy,6.2,33,66,39,Healthy
+Potato,Sandy,5.6,21,58,111,Healthy
+Tomato,Loamy,6.3,28,85,126,Late Blight
+Potato,Loamy,6.2,31,91,150,Late Blight
+Tomato,Clay,7.0,25,68,155,Healthy
+Tomato,Clay,5.7,24,85,30,Early Blight
+Tomato,Loamy,6.8,24,66,148,Healthy
+Pepper,Sandy,7.0,28,85,93,Bacterial Spot
+Pepper,Clay,7.0,31,65,82,Healthy
+Tomato,Clay,6.7,22,57,74,Healthy
+Tomato,Loamy,6.8,35,69,59,Healthy
+Pepper,Sandy,5.9,27,70,61,Healthy
+Potato,Sandy,5.7,19,79,89,Early Blight
+Potato,Sandy,7.2,34,56,173,Healthy
+Potato,Clay,7.0,18,65,131,Healthy
+Pepper,Loamy,6.2,32,84,128,Bacterial Leaf Spot
+Potato,Sandy,6.9,27,87,156,Late Blight
+Tomato,Loamy,6.1,27,85,97,Early Blight
+Pepper,Loamy,6.4,20,80,13,Bacterial Spot
+Potato,Sandy,6.6,26,77,168,Early Blight
+Potato,Sandy,7.0,31,64,136,Healthy
+Pepper,Clay,6.6,24,78,108,Bacterial Spot
+Pepper,Loamy,6.9,33,60,156,Healthy
+Tomato,Loamy,7.2,18,78,86,Early Blight
+Tomato,Sandy,5.7,34,55,77,Healthy
+Potato,Sandy,6.0,34,86,159,Late Blight
+Potato,Sandy,6.1,33,71,95,Early Blight
+Pepper,Sandy,6.6,23,68,29,Healthy
+Pepper,Clay,6.3,21,70,82,Healthy
+Tomato,Clay,6.2,20,59,85,Healthy
+Pepper,Clay,6.2,20,83,46,Bacterial Spot
+Tomato,Loamy,6.2,23,58,142,Healthy
+Tomato,Sandy,6.3,21,85,36,Early Blight
+Potato,Sandy,5.8,24,57,145,Healthy
+Tomato,Clay,5.6,35,81,113,Late Blight
+Pepper,Loamy,5.8,30,89,161,Bacterial Leaf Spot
+Potato,Loamy,6.2,30,60,62,Healthy
+Tomato,Clay,6.6,35,81,124,Late Blight
+Potato,Sandy,6.3,25,81,179,Late Blight
+Pepper,Loamy,6.3,28,88,160,Bacterial Leaf Spot
+Tomato,Clay,6.6,31,62,145,Healthy
+Potato,Clay,6.9,18,85,140,Late Blight
+Pepper,Loamy,5.6,26,63,79,Healthy
+Potato,Sandy,6.6,20,56,124,Healthy
+Tomato,Clay,6.9,19,55,54,Healthy
+Potato,Loamy,5.8,29,91,134,Late Blight
+Potato,Clay,6.2,27,66,91,Healthy
+Tomato,Loamy,6.1,27,77,115,Early Blight
+Tomato,Sandy,5.6,19,62,86,Healthy
+Tomato,Loamy,6.2,18,87,96,Early Blight
+Tomato,Clay,7.0,18,82,31,Early Blight
+Potato,Loamy,6.1,19,75,149,Early Blight
+Pepper,Clay,6.6,33,56,53,Healthy
+Pepper,Loamy,6.8,26,89,91,Bacterial Spot
+Pepper,Sandy,7.2,24,94,35,Bacterial Spot
+Pepper,Loamy,5.7,21,78,178,Bacterial Spot
+Potato,Loamy,5.8,30,88,96,Early Blight
+Pepper,Loamy,6.5,34,77,50,Bacterial Spot
+Tomato,Loamy,5.8,27,89,77,Early Blight
+Pepper,Loamy,5.9,21,92,87,Bacterial Spot
+Potato,Clay,7.2,32,82,106,Late Blight
+Pepper,Sandy,6.2,20,78,12,Bacterial Spot
+Potato,Clay,5.9,28,60,110,Healthy
+Potato,Sandy,7.2,31,91,65,Early Blight
+Pepper,Clay,6.5,30,63,94,Healthy
+Tomato,Sandy,6.3,28,56,40,Healthy
+Potato,Loamy,6.4,21,88,82,Early Blight
+Pepper,Loamy,6.7,35,93,153,Bacterial Leaf Spot
+Potato,Loamy,6.2,19,71,22,Early Blight
+Pepper,Clay,5.5,21,76,57,Bacterial Spot
+Potato,Sandy,6.6,26,74,102,Early Blight
+Pepper,Loamy,5.6,22,84,137,Bacterial Leaf Spot
+Tomato,Clay,5.9,34,63,143,Healthy
+Pepper,Loamy,5.5,23,76,88,Bacterial Spot
+Potato,Sandy,6.5,32,57,123,Healthy
+Potato,Clay,5.6,27,71,110,Early Blight
+Potato,Loamy,6.0,23,90,71,Early Blight
+Tomato,Loamy,7.1,30,80,151,Early Blight
+Potato,Clay,6.3,26,76,121,Early Blight
+Tomato,Sandy,6.7,28,79,77,Early Blight
+Tomato,Loamy,6.8,34,74,113,Early Blight
+Potato,Sandy,5.7,33,68,124,Healthy
+Tomato,Loamy,5.5,18,77,48,Early Blight
+Tomato,Clay,6.3,18,55,15,Healthy
+Potato,Loamy,6.4,31,64,31,Healthy
+Tomato,Clay,6.1,26,70,177,Healthy
+Tomato,Sandy,6.5,27,84,61,Early Blight
+Potato,Loamy,6.2,29,88,19,Early Blight
+Potato,Sandy,6.0,27,89,77,Early Blight
+Potato,Clay,5.9,29,93,130,Late Blight
+Tomato,Clay,6.1,27,60,89,Healthy
+Potato,Sandy,5.7,25,94,34,Early Blight
+Tomato,Clay,6.7,22,92,104,Late Blight
+Pepper,Loamy,7.0,33,83,118,Bacterial Leaf Spot
+Tomato,Sandy,5.7,32,84,178,Late Blight
+Tomato,Sandy,5.6,20,67,180,Healthy
+Potato,Clay,5.6,20,68,32,Healthy
+Tomato,Sandy,6.5,33,88,162,Late Blight
+Potato,Clay,6.1,24,65,91,Healthy
+Pepper,Clay,6.1,33,88,142,Bacterial Leaf Spot
+Tomato,Sandy,5.9,20,65,139,Healthy
+Pepper,Sandy,7.0,19,86,114,Bacterial Leaf Spot
+Tomato,Clay,6.8,34,88,87,Early Blight
+Tomato,Loamy,7.0,32,77,94,Early Blight
+Potato,Sandy,5.6,31,67,102,Healthy
+Potato,Sandy,6.1,30,57,77,Healthy
+Tomato,Clay,5.9,28,95,31,Early Blight
+Pepper,Loamy,6.6,32,83,34,Bacterial Spot
+Potato,Clay,5.7,27,62,76,Healthy
+Potato,Sandy,6.9,18,67,38,Healthy
+Tomato,Loamy,5.8,27,82,73,Early Blight
+Tomato,Clay,5.7,29,58,14,Healthy
+Pepper,Sandy,7.0,22,83,170,Bacterial Leaf Spot
+Tomato,Clay,6.2,20,60,36,Healthy
+Pepper,Loamy,6.7,21,85,117,Bacterial Leaf Spot
+Pepper,Sandy,7.1,22,78,38,Bacterial Spot
+Pepper,Loamy,5.7,28,77,86,Bacterial Spot
+Pepper,Sandy,5.8,34,65,177,Healthy
+Tomato,Sandy,5.9,27,94,64,Early Blight
+Tomato,Loamy,6.8,23,84,29,Early Blight
+Potato,Loamy,5.8,35,57,64,Healthy
+Potato,Sandy,7.0,29,75,98,Early Blight
+Potato,Sandy,5.9,23,65,103,Healthy
+Pepper,Sandy,6.1,24,93,177,Bacterial Leaf Spot
+Pepper,Clay,6.9,25,74,69,Bacterial Spot
+Pepper,Clay,7.0,33,88,45,Bacterial Spot
+Potato,Clay,7.0,20,78,175,Early Blight
+Tomato,Sandy,6.6,20,57,40,Healthy
+Potato,Loamy,6.2,27,55,135,Healthy
+Potato,Loamy,7.1,22,69,25,Healthy
+Potato,Loamy,5.8,24,69,58,Healthy
+Potato,Sandy,7.0,34,88,161,Late Blight
+Potato,Loamy,6.9,28,79,29,Early Blight
+Pepper,Clay,6.1,27,84,121,Bacterial Leaf Spot
+Potato,Loamy,5.7,32,88,119,Late Blight
+Potato,Loamy,5.8,28,58,89,Healthy
+Pepper,Clay,6.1,25,94,89,Bacterial Spot
+Potato,Sandy,6.3,35,85,142,Late Blight
+Potato,Sandy,5.9,28,79,11,Early Blight
+Tomato,Sandy,6.9,22,92,55,Early Blight
+Tomato,Loamy,6.9,34,87,118,Late Blight
+Tomato,Sandy,6.3,18,74,74,Early Blight
+Potato,Clay,6.0,20,67,30,Healthy
+Pepper,Clay,6.2,19,78,112,Bacterial Spot
+Potato,Loamy,6.2,32,86,71,Early Blight
+Tomato,Loamy,6.0,34,66,35,Healthy
+Potato,Loamy,6.5,23,81,160,Late Blight
+Pepper,Sandy,6.5,28,67,174,Healthy
+Tomato,Loamy,7.2,18,58,25,Healthy
+Tomato,Clay,6.6,19,83,63,Early Blight
+Pepper,Loamy,6.9,35,66,118,Healthy
+Tomato,Loamy,7.2,21,89,46,Early Blight
+Tomato,Sandy,5.9,35,71,121,Early Blight
+Pepper,Clay,7.1,24,74,127,Bacterial Spot
+Potato,Clay,6.1,33,73,70,Early Blight
+Tomato,Loamy,6.3,29,89,119,Late Blight
+Potato,Sandy,7.0,21,78,98,Early Blight
+Tomato,Sandy,7.0,22,55,89,Healthy
+Pepper,Loamy,6.6,25,63,166,Healthy
+Potato,Sandy,6.1,33,63,104,Healthy
+Pepper,Loamy,6.1,22,85,162,Bacterial Leaf Spot
+Pepper,Clay,5.5,25,82,83,Bacterial Spot
+Potato,Sandy,6.0,28,90,176,Late Blight
+Potato,Sandy,7.1,22,83,105,Late Blight
+Potato,Sandy,6.9,20,70,129,Healthy
+Pepper,Sandy,5.9,23,71,169,Bacterial Spot
+Tomato,Loamy,6.3,34,58,43,Healthy
+Potato,Loamy,6.2,21,92,139,Late Blight
+Tomato,Clay,6.3,25,81,32,Early Blight
+Pepper,Sandy,7.1,32,67,150,Healthy
+Pepper,Sandy,6.7,31,69,101,Healthy
+Potato,Sandy,6.6,23,73,79,Early Blight
+Potato,Clay,6.9,32,85,99,Early Blight
+Tomato,Clay,6.9,34,65,165,Healthy
+Tomato,Sandy,6.5,18,87,78,Early Blight
+Potato,Sandy,7.2,18,65,163,Healthy
+Tomato,Sandy,5.8,32,84,80,Early Blight
+Tomato,Clay,7.1,19,80,165,Early Blight
+Potato,Clay,6.8,28,60,145,Healthy
+Pepper,Loamy,6.3,29,82,129,Bacterial Leaf Spot
+Pepper,Clay,6.7,22,67,115,Healthy
+Potato,Loamy,5.8,23,79,34,Early Blight
+Potato,Clay,5.6,27,63,147,Healthy
+Pepper,Loamy,7.1,33,58,169,Healthy
+Pepper,Loamy,6.2,30,74,22,Bacterial Spot
+Pepper,Clay,7.1,35,63,165,Healthy
+Potato,Loamy,5.9,27,73,157,Early Blight
+Potato,Sandy,5.9,26,77,163,Early Blight
+Pepper,Clay,6.9,27,85,110,Bacterial Leaf Spot
+Tomato,Sandy,7.2,24,94,126,Late Blight
+Tomato,Sandy,7.0,28,78,139,Early Blight
+Potato,Clay,6.3,23,82,58,Early Blight
+Tomato,Loamy,6.7,30,81,108,Late Blight
+Potato,Loamy,5.6,32,58,110,Healthy
+Tomato,Sandy,6.0,33,80,160,Early Blight
+Potato,Loamy,6.9,26,83,39,Early Blight
+Tomato,Sandy,6.2,27,82,108,Late Blight
+Pepper,Loamy,5.7,26,90,129,Bacterial Leaf Spot
+Pepper,Sandy,6.6,25,87,66,Bacterial Spot
+Tomato,Clay,6.3,21,63,41,Healthy
+Tomato,Clay,6.0,29,76,131,Early Blight
+Pepper,Sandy,7.2,21,60,118,Healthy
+Pepper,Loamy,6.1,34,78,104,Bacterial Spot
+Tomato,Sandy,6.8,23,91,40,Early Blight
+Pepper,Loamy,6.2,19,80,125,Bacterial Spot
+Pepper,Loamy,7.0,23,86,139,Bacterial Leaf Spot
+Tomato,Sandy,7.2,19,75,20,Early Blight
+Tomato,Clay,7.0,20,69,172,Healthy
+Potato,Clay,6.8,30,64,123,Healthy
+Pepper,Clay,5.8,34,69,137,Healthy
+Tomato,Sandy,5.6,33,64,132,Healthy
+Pepper,Loamy,6.5,25,55,159,Healthy
+Pepper,Clay,6.8,35,85,171,Bacterial Leaf Spot
+Pepper,Loamy,5.6,25,68,50,Healthy
+Tomato,Loamy,6.7,26,88,109,Late Blight
+Tomato,Clay,5.7,35,72,86,Early Blight
+Potato,Sandy,6.1,18,89,146,Late Blight
+Pepper,Loamy,7.2,18,59,45,Healthy
+Tomato,Sandy,5.7,31,91,120,Late Blight
+Tomato,Sandy,6.5,25,65,126,Healthy
+Pepper,Clay,7.0,24,57,29,Healthy
+Pepper,Sandy,6.6,24,67,34,Healthy
+Pepper,Loamy,7.0,26,57,75,Healthy
+Potato,Clay,6.1,26,68,124,Healthy
+Pepper,Loamy,7.1,32,73,148,Bacterial Spot
+Pepper,Sandy,6.8,32,71,57,Bacterial Spot
+Pepper,Clay,7.2,23,91,79,Bacterial Spot
+Potato,Loamy,7.1,19,88,151,Late Blight
+Potato,Sandy,6.7,31,88,179,Late Blight
+Pepper,Sandy,6.1,32,58,139,Healthy
+Potato,Loamy,6.5,35,77,168,Early Blight
+Pepper,Loamy,5.7,30,68,49,Healthy
+Tomato,Sandy,7.0,23,73,123,Early Blight
+Pepper,Sandy,6.0,31,57,161,Healthy
+Pepper,Sandy,6.9,29,77,64,Bacterial Spot
+Potato,Sandy,5.8,25,88,163,Late Blight
+Potato,Clay,6.2,20,67,87,Healthy
+Tomato,Loamy,5.8,26,74,58,Early Blight
+Tomato,Loamy,5.8,24,90,17,Early Blight
+Tomato,Loamy,5.6,28,68,18,Healthy
+Potato,Clay,7.1,33,57,35,Healthy
+Tomato,Clay,6.3,27,73,141,Early Blight
+Pepper,Sandy,6.3,25,95,165,Bacterial Leaf Spot
+Tomato,Loamy,6.3,28,67,171,Healthy
+Potato,Loamy,6.9,28,93,176,Late Blight
+Tomato,Clay,6.9,26,72,123,Early Blight
+Tomato,Clay,5.7,31,68,174,Healthy
+Potato,Clay,5.6,22,55,144,Healthy
+Tomato,Sandy,7.1,33,62,24,Healthy
+Pepper,Sandy,5.9,29,84,48,Bacterial Spot
+Potato,Clay,6.7,28,70,169,Healthy
+Pepper,Clay,6.6,32,70,146,Healthy
+Tomato,Clay,5.8,29,70,48,Healthy
+Pepper,Loamy,7.0,25,73,151,Bacterial Spot
+Tomato,Loamy,5.7,27,59,32,Healthy
+Tomato,Sandy,6.1,26,85,133,Late Blight
+Potato,Sandy,6.3,21,60,54,Healthy
+Pepper,Clay,6.5,20,93,107,Bacterial Leaf Spot
+Tomato,Loamy,6.3,19,91,127,Late Blight
+Tomato,Loamy,5.8,32,93,153,Late Blight
+Potato,Loamy,6.9,23,78,146,Early Blight
+Tomato,Sandy,5.6,28,89,37,Early Blight
+Pepper,Clay,6.9,29,71,119,Bacterial Spot
+Pepper,Loamy,5.9,22,68,21,Healthy
+Tomato,Loamy,7.2,20,79,172,Early Blight
+Potato,Clay,6.9,25,64,100,Healthy
+Tomato,Sandy,6.7,30,82,108,Late Blight
+Pepper,Clay,5.9,29,87,91,Bacterial Spot
+Potato,Clay,6.4,25,74,95,Early Blight
+Tomato,Loamy,6.9,23,73,68,Early Blight
+Pepper,Clay,6.0,30,94,95,Bacterial Spot
+Potato,Loamy,6.2,18,59,49,Healthy
+Pepper,Clay,6.1,22,72,180,Bacterial Spot
+Potato,Clay,5.6,34,89,175,Late Blight
+Tomato,Sandy,6.7,18,69,149,Healthy
+Potato,Sandy,7.0,32,68,19,Healthy
+Potato,Clay,5.6,28,78,126,Early Blight
+Potato,Loamy,6.2,25,59,128,Healthy
+Pepper,Loamy,5.8,30,66,56,Healthy
+Potato,Sandy,5.9,19,90,174,Late Blight
+Pepper,Sandy,5.6,25,86,147,Bacterial Leaf Spot
+Potato,Sandy,6.8,30,85,171,Late Blight
+Tomato,Loamy,7.1,26,64,134,Healthy
+Pepper,Loamy,6.4,26,84,133,Bacterial Leaf Spot
+Potato,Loamy,7.1,32,64,48,Healthy
+Tomato,Sandy,5.8,31,73,141,Early Blight
+Potato,Loamy,6.1,28,94,150,Late Blight
+Potato,Sandy,6.2,31,56,70,Healthy
+Potato,Clay,5.6,21,94,17,Early Blight
+Tomato,Sandy,6.8,33,63,61,Healthy
+Potato,Clay,6.8,29,64,23,Healthy
+Pepper,Loamy,5.5,26,77,125,Bacterial Spot
+Pepper,Loamy,6.8,30,60,92,Healthy
+Pepper,Sandy,7.1,34,57,117,Healthy
+Pepper,Sandy,6.2,26,71,81,Bacterial Spot
+Pepper,Clay,6.4,19,56,86,Healthy
+Tomato,Loamy,7.1,27,80,66,Early Blight
+Tomato,Clay,6.6,34,70,115,Healthy
+Potato,Sandy,6.7,23,88,143,Late Blight
+Potato,Loamy,7.0,27,66,90,Healthy
+Pepper,Clay,6.8,22,94,18,Bacterial Spot
+Potato,Clay,6.4,30,90,59,Early Blight
+Pepper,Clay,5.7,23,59,164,Healthy
+Pepper,Loamy,6.7,25,94,47,Bacterial Spot
+Potato,Sandy,6.4,33,82,18,Early Blight
+Tomato,Clay,6.1,28,94,69,Early Blight
+Potato,Sandy,6.0,25,90,153,Late Blight
+Potato,Sandy,5.9,29,77,76,Early Blight
+Pepper,Loamy,6.5,32,61,163,Healthy
+Pepper,Sandy,6.3,23,56,77,Healthy
+Pepper,Sandy,6.1,30,75,136,Bacterial Spot
+Tomato,Sandy,6.9,25,64,44,Healthy
+Potato,Loamy,6.6,18,76,38,Early Blight
+Pepper,Clay,6.1,28,59,41,Healthy
+Potato,Loamy,6.1,32,56,41,Healthy
+Tomato,Loamy,6.1,34,82,70,Early Blight
+Potato,Clay,6.1,26,84,109,Late Blight
+Tomato,Sandy,6.6,21,64,24,Healthy
+Pepper,Sandy,6.8,28,65,119,Healthy
+Pepper,Loamy,7.0,31,62,140,Healthy
+Potato,Sandy,6.7,18,67,97,Healthy
+Tomato,Clay,7.1,32,55,148,Healthy
+Tomato,Clay,6.5,23,85,111,Late Blight
+Tomato,Sandy,7.1,28,67,39,Healthy
+Tomato,Clay,6.2,25,55,156,Healthy
+Potato,Clay,7.1,25,63,70,Healthy
+Pepper,Loamy,6.1,29,95,171,Bacterial Leaf Spot
+Tomato,Loamy,6.2,25,91,57,Early Blight
+Potato,Loamy,7.0,28,61,92,Healthy
+Potato,Clay,5.7,18,88,170,Late Blight
+Pepper,Clay,6.5,25,91,147,Bacterial Leaf Spot
+Tomato,Loamy,6.5,32,56,24,Healthy
+Potato,Loamy,7.2,32,93,95,Early Blight
+Potato,Sandy,6.8,18,77,83,Early Blight
+Tomato,Clay,6.2,24,70,68,Healthy
+Potato,Sandy,5.7,24,89,111,Late Blight
+Tomato,Loamy,6.8,20,58,45,Healthy
+Potato,Sandy,6.3,26,66,12,Healthy
+Tomato,Sandy,7.0,25,56,152,Healthy
+Tomato,Sandy,5.7,24,56,112,Healthy
+Potato,Clay,5.9,23,69,129,Healthy
+Pepper,Clay,6.1,33,71,123,Bacterial Spot
+Potato,Sandy,6.3,22,57,98,Healthy
+Potato,Sandy,5.7,22,55,125,Healthy
+Potato,Clay,6.5,26,56,97,Healthy
+Pepper,Loamy,6.6,35,74,152,Bacterial Spot
+Potato,Clay,6.3,31,85,40,Early Blight
+Tomato,Loamy,6.2,28,58,121,Healthy
+Tomato,Loamy,6.6,32,86,38,Early Blight
+Tomato,Loamy,5.6,26,67,38,Healthy
+Tomato,Clay,6.0,29,73,125,Early Blight
+Potato,Loamy,5.7,26,88,48,Early Blight
+Potato,Clay,6.8,27,76,140,Early Blight
+Potato,Clay,5.7,35,72,11,Early Blight
+Pepper,Clay,5.7,24,92,141,Bacterial Leaf Spot
+Pepper,Loamy,6.5,25,57,126,Healthy
+Potato,Clay,5.7,34,59,140,Healthy
+Potato,Clay,6.6,32,77,57,Early Blight
+Pepper,Loamy,6.6,25,80,102,Bacterial Spot
+Potato,Clay,7.1,25,71,24,Early Blight
+Pepper,Clay,7.1,34,92,106,Bacterial Leaf Spot
+Potato,Sandy,5.7,33,73,124,Early Blight
+Potato,Loamy,5.9,20,90,93,Early Blight
+Pepper,Loamy,6.8,21,92,57,Bacterial Spot
+Potato,Clay,5.9,24,60,28,Healthy
+Pepper,Loamy,5.7,28,79,32,Bacterial Spot
+Pepper,Loamy,6.6,24,75,149,Bacterial Spot
+Pepper,Loamy,6.0,20,95,171,Bacterial Leaf Spot
+Tomato,Clay,6.8,18,86,169,Late Blight
+Tomato,Loamy,5.7,31,71,24,Early Blight
+Tomato,Loamy,5.6,24,75,119,Early Blight
+Potato,Loamy,6.7,27,88,142,Late Blight
+Pepper,Loamy,5.6,34,95,94,Bacterial Spot
+Pepper,Clay,6.8,23,73,28,Bacterial Spot
+Potato,Loamy,6.1,22,55,39,Healthy
+Potato,Sandy,7.0,21,67,136,Healthy
+Tomato,Sandy,5.9,33,84,115,Late Blight
+Potato,Loamy,5.7,22,70,57,Healthy
+Tomato,Clay,6.0,24,55,16,Healthy
+Pepper,Clay,6.7,19,60,95,Healthy
+Potato,Sandy,6.8,24,74,133,Early Blight
+Tomato,Clay,6.1,23,57,39,Healthy
+Potato,Sandy,6.4,19,95,127,Late Blight
+Potato,Clay,6.4,26,75,52,Early Blight
+Tomato,Sandy,5.8,28,90,68,Early Blight
+Tomato,Sandy,5.7,21,72,122,Early Blight
+Potato,Loamy,6.3,29,92,133,Late Blight
+Tomato,Clay,6.8,32,62,10,Healthy
+Potato,Sandy,6.1,27,73,60,Early Blight
+Pepper,Clay,5.6,33,94,154,Bacterial Leaf Spot
+Tomato,Clay,6.9,29,83,122,Late Blight
+Pepper,Clay,5.8,23,77,75,Bacterial Spot
+Potato,Clay,6.9,28,93,162,Late Blight
+Potato,Loamy,6.4,28,82,143,Late Blight
+Pepper,Clay,7.1,32,84,138,Bacterial Leaf Spot
+Tomato,Loamy,6.2,23,90,83,Early Blight
+Pepper,Sandy,6.8,19,71,55,Bacterial Spot
+Potato,Clay,6.1,30,73,150,Early Blight
+Tomato,Sandy,6.2,28,81,48,Early Blight
+Potato,Loamy,7.0,19,72,99,Early Blight
+Tomato,Sandy,5.8,29,75,41,Early Blight
+Pepper,Sandy,7.0,32,82,132,Bacterial Leaf Spot
+Potato,Loamy,5.5,34,55,94,Healthy
+Pepper,Loamy,7.0,26,85,96,Bacterial Spot
+Tomato,Sandy,6.3,34,76,52,Early Blight
+Tomato,Sandy,6.8,22,85,65,Early Blight
+Tomato,Sandy,6.2,25,83,105,Late Blight
+Pepper,Clay,7.0,35,94,150,Bacterial Leaf Spot
+Pepper,Clay,6.6,31,85,36,Bacterial Spot
+Potato,Sandy,6.2,21,83,102,Late Blight
+Potato,Sandy,6.0,22,82,28,Early Blight
+Pepper,Loamy,6.3,32,66,38,Healthy
+Potato,Loamy,5.6,18,61,157,Healthy
+Potato,Clay,6.1,23,90,29,Early Blight
+Tomato,Clay,6.1,31,82,89,Early Blight
+Pepper,Clay,7.0,23,71,153,Bacterial Spot
+Potato,Sandy,5.7,32,93,40,Early Blight
+Potato,Clay,6.2,30,95,31,Early Blight
+Pepper,Sandy,6.2,35,94,113,Bacterial Leaf Spot
+Potato,Loamy,6.9,23,84,12,Early Blight
+Tomato,Clay,6.7,32,61,88,Healthy
+Potato,Loamy,6.4,19,60,123,Healthy
+Tomato,Clay,6.2,31,80,103,Early Blight
+Tomato,Sandy,5.8,27,72,27,Early Blight
+Pepper,Clay,5.5,30,59,59,Healthy
+Pepper,Loamy,6.3,32,92,139,Bacterial Leaf Spot
+Pepper,Clay,6.6,30,79,161,Bacterial Spot
+Tomato,Clay,7.1,32,85,104,Late Blight
+Tomato,Loamy,6.4,29,83,117,Late Blight
+Potato,Clay,7.0,20,57,46,Healthy
+Pepper,Sandy,6.9,23,89,39,Bacterial Spot
+Potato,Loamy,6.1,31,55,179,Healthy
+Tomato,Clay,6.9,19,85,75,Early Blight
+Tomato,Sandy,5.5,31,94,93,Early Blight
+Potato,Loamy,6.3,28,88,93,Early Blight
+Potato,Clay,6.0,19,71,168,Early Blight
+Pepper,Clay,6.7,34,68,137,Healthy
+Tomato,Clay,7.2,33,62,85,Healthy
+Tomato,Clay,7.1,18,88,148,Late Blight
+Tomato,Sandy,5.7,29,80,60,Early Blight
+Potato,Clay,6.4,34,63,138,Healthy
+Potato,Loamy,6.9,22,93,52,Early Blight
+Pepper,Clay,6.7,26,88,27,Bacterial Spot
+Pepper,Loamy,7.1,28,70,92,Healthy
+Pepper,Loamy,7.0,28,89,18,Bacterial Spot
+Tomato,Loamy,5.8,18,65,149,Healthy
+Potato,Loamy,6.0,20,85,95,Early Blight
+Pepper,Sandy,7.1,34,69,142,Healthy
+Pepper,Loamy,5.8,34,86,37,Bacterial Spot
+Tomato,Sandy,6.9,22,64,84,Healthy
+Pepper,Clay,6.7,22,77,129,Bacterial Spot
+Potato,Sandy,6.3,28,57,151,Healthy
+Potato,Loamy,5.8,31,65,47,Healthy
+Tomato,Sandy,6.5,30,83,136,Late Blight
+Pepper,Loamy,7.0,25,59,139,Healthy
+Pepper,Clay,6.2,21,72,87,Bacterial Spot
+Potato,Loamy,5.5,24,88,48,Early Blight
+Potato,Clay,6.0,30,94,78,Early Blight
+Potato,Loamy,5.6,25,64,118,Healthy
+Potato,Loamy,5.7,19,55,88,Healthy
+Tomato,Loamy,5.7,27,55,143,Healthy
+Pepper,Loamy,5.8,35,93,25,Bacterial Spot
+Pepper,Loamy,6.9,34,77,72,Bacterial Spot
+Tomato,Sandy,6.7,19,77,75,Early Blight
+Pepper,Sandy,6.4,22,93,82,Bacterial Spot
+Potato,Sandy,6.0,29,77,54,Early Blight
+Tomato,Clay,7.0,24,91,118,Late Blight
+Potato,Loamy,6.4,32,93,76,Early Blight
+Potato,Sandy,6.7,35,92,64,Early Blight
+Pepper,Loamy,7.2,31,57,120,Healthy
+Pepper,Sandy,6.8,28,67,155,Healthy
+Potato,Loamy,5.9,33,74,128,Early Blight
+Tomato,Loamy,6.9,25,63,143,Healthy
+Potato,Clay,5.8,18,85,136,Late Blight
+Pepper,Loamy,7.0,23,77,63,Bacterial Spot
+Potato,Loamy,6.9,35,94,35,Early Blight
+Potato,Sandy,7.1,22,87,97,Early Blight
+Tomato,Sandy,6.5,24,93,13,Early Blight
+Pepper,Sandy,5.6,35,62,56,Healthy
+Tomato,Loamy,6.8,25,77,18,Early Blight
+Tomato,Sandy,6.5,28,81,126,Late Blight
+Pepper,Sandy,7.0,25,72,26,Bacterial Spot
+Tomato,Loamy,6.9,22,82,89,Early Blight
+Tomato,Clay,7.1,29,57,118,Healthy
+Pepper,Sandy,6.1,19,61,70,Healthy
+Tomato,Loamy,6.7,31,83,134,Late Blight
+Tomato,Loamy,6.4,34,87,153,Late Blight
+Pepper,Loamy,5.8,33,63,64,Healthy
+Pepper,Loamy,6.6,24,73,83,Bacterial Spot
+Pepper,Sandy,6.9,27,68,72,Healthy
+Potato,Clay,6.6,18,63,161,Healthy
+Potato,Sandy,5.8,27,91,10,Early Blight
+Pepper,Sandy,6.1,19,56,65,Healthy
+Tomato,Loamy,6.4,34,65,155,Healthy
+Tomato,Loamy,5.7,26,60,134,Healthy
+Tomato,Loamy,6.3,31,82,126,Late Blight
+Pepper,Sandy,6.5,27,94,36,Bacterial Spot
+Pepper,Sandy,6.6,24,95,31,Bacterial Spot
+Pepper,Sandy,6.5,19,61,162,Healthy
+Pepper,Loamy,6.5,29,90,48,Bacterial Spot
+Tomato,Loamy,6.3,31,83,79,Early Blight
+Tomato,Loamy,6.5,20,83,105,Late Blight
+Potato,Loamy,7.2,29,66,35,Healthy
+Potato,Loamy,6.2,22,88,162,Late Blight
+Potato,Sandy,6.6,28,62,90,Healthy
+Pepper,Clay,7.2,32,62,21,Healthy
+Pepper,Loamy,6.8,31,61,158,Healthy
+Pepper,Loamy,6.3,32,63,156,Healthy
+Potato,Loamy,5.6,29,85,22,Early Blight
+Pepper,Sandy,6.0,25,65,75,Healthy
+Potato,Clay,6.2,29,75,138,Early Blight
+Potato,Clay,6.8,21,72,63,Early Blight
+Tomato,Clay,6.7,33,80,43,Early Blight
+Potato,Loamy,6.2,21,63,26,Healthy
+Pepper,Sandy,7.1,28,87,29,Bacterial Spot
+Pepper,Loamy,5.7,28,84,65,Bacterial Spot
+Pepper,Loamy,6.4,20,81,13,Bacterial Spot
+Potato,Clay,5.5,31,90,72,Early Blight
+Tomato,Sandy,5.6,29,63,101,Healthy
+Pepper,Clay,5.7,31,90,72,Bacterial Spot
+Tomato,Clay,6.6,29,75,68,Early Blight
+Potato,Loamy,6.1,23,72,11,Early Blight
+Pepper,Clay,5.9,29,61,22,Healthy
+Potato,Clay,6.0,26,67,130,Healthy
+Tomato,Clay,5.7,20,83,127,Late Blight
+Tomato,Clay,6.2,21,87,148,Late Blight
+Potato,Clay,5.8,22,94,174,Late Blight
+Pepper,Sandy,5.6,18,94,120,Bacterial Leaf Spot
+Pepper,Loamy,6.6,18,94,129,Bacterial Leaf Spot
+Pepper,Sandy,6.7,26,60,58,Healthy
+Potato,Sandy,6.7,34,56,93,Healthy
+Tomato,Loamy,6.9,35,55,78,Healthy
+Potato,Clay,6.1,29,68,116,Healthy
+Tomato,Sandy,5.9,25,57,135,Healthy
+Potato,Sandy,6.7,31,85,144,Late Blight
+Tomato,Clay,6.5,24,93,107,Late Blight
+Pepper,Sandy,6.0,34,75,102,Bacterial Spot
+Potato,Loamy,7.1,20,92,58,Early Blight
+Tomato,Loamy,6.1,24,63,15,Healthy
+Pepper,Loamy,6.8,21,84,21,Bacterial Spot
+Pepper,Clay,5.7,20,71,104,Bacterial Spot
+Tomato,Clay,7.2,19,70,35,Healthy
+Tomato,Clay,5.7,32,58,46,Healthy
+Tomato,Loamy,5.6,29,65,70,Healthy
+Tomato,Loamy,6.8,24,90,32,Early Blight
+Potato,Clay,6.9,32,62,33,Healthy
+Potato,Loamy,5.7,30,71,29,Early Blight
+Tomato,Clay,5.7,26,74,25,Early Blight
+Tomato,Sandy,6.0,35,63,123,Healthy
+Potato,Clay,5.5,19,70,142,Healthy
+Potato,Sandy,7.1,20,59,95,Healthy
+Potato,Loamy,5.6,22,60,154,Healthy
+Pepper,Clay,6.7,18,67,33,Healthy
+Potato,Clay,6.5,25,70,38,Healthy
+Potato,Loamy,6.5,22,79,164,Early Blight
+Potato,Clay,6.0,23,76,125,Early Blight
+Pepper,Loamy,6.4,18,55,89,Healthy
+Tomato,Loamy,6.0,35,82,131,Late Blight
+Potato,Loamy,6.9,23,64,96,Healthy
+Tomato,Sandy,6.1,20,59,145,Healthy
+Tomato,Clay,6.0,26,63,35,Healthy
+Potato,Sandy,6.7,22,62,46,Healthy
+Potato,Clay,6.0,24,60,100,Healthy
+Potato,Sandy,5.9,32,85,60,Early Blight
+Tomato,Loamy,6.7,19,69,79,Healthy
+Pepper,Sandy,6.1,22,86,139,Bacterial Leaf Spot
+Tomato,Sandy,6.5,25,95,65,Early Blight
+Tomato,Sandy,7.0,33,66,87,Healthy
+Tomato,Loamy,6.1,24,73,172,Early Blight
+Tomato,Sandy,6.1,22,80,61,Early Blight
+Tomato,Clay,5.7,28,91,161,Late Blight
+Tomato,Loamy,5.8,34,88,152,Late Blight
+Pepper,Sandy,6.1,20,73,59,Bacterial Spot
+Tomato,Loamy,6.8,31,70,176,Healthy
+Tomato,Clay,6.3,35,90,51,Early Blight
+Potato,Loamy,6.4,19,91,55,Early Blight
+Potato,Loamy,5.7,20,86,178,Late Blight
+Potato,Sandy,6.1,28,78,51,Early Blight
+Pepper,Loamy,6.9,34,71,84,Bacterial Spot
+Potato,Clay,6.5,19,82,113,Late Blight
+Tomato,Sandy,6.9,23,60,87,Healthy
+Potato,Loamy,7.1,25,92,17,Early Blight
+Potato,Loamy,5.6,23,82,96,Early Blight
+Potato,Loamy,6.3,30,83,175,Late Blight
+Potato,Loamy,6.9,20,84,80,Early Blight
+Tomato,Sandy,5.5,29,89,177,Late Blight
+Pepper,Loamy,6.4,25,65,115,Healthy
+Pepper,Sandy,6.0,34,76,152,Bacterial Spot
+Pepper,Loamy,6.2,31,94,48,Bacterial Spot
+Potato,Clay,6.7,22,63,11,Healthy
+Potato,Sandy,5.7,29,59,104,Healthy
+Tomato,Clay,6.3,24,60,163,Healthy
+Tomato,Loamy,6.4,25,84,179,Late Blight
+Potato,Clay,6.4,18,63,17,Healthy
+Potato,Loamy,6.1,30,75,53,Early Blight
+Potato,Clay,6.7,21,70,112,Healthy
+Pepper,Loamy,6.3,23,62,158,Healthy
+Potato,Clay,6.8,29,91,11,Early Blight
+Tomato,Clay,6.3,18,85,107,Late Blight
+Potato,Sandy,5.5,34,60,48,Healthy
+Pepper,Loamy,5.6,23,87,161,Bacterial Leaf Spot
+Tomato,Clay,5.7,32,80,40,Early Blight
+Pepper,Sandy,6.0,21,70,129,Healthy
+Tomato,Loamy,7.1,27,72,54,Early Blight
+Potato,Clay,6.8,27,75,121,Early Blight
+Tomato,Clay,6.7,24,84,79,Early Blight
+Potato,Sandy,6.6,20,67,95,Healthy
+Tomato,Clay,6.9,31,76,66,Early Blight
+Potato,Sandy,6.4,31,86,138,Late Blight
+Tomato,Clay,6.8,33,94,37,Early Blight
+Tomato,Loamy,6.5,24,92,80,Early Blight
+Tomato,Loamy,6.2,25,67,28,Healthy
+Tomato,Loamy,5.9,25,81,128,Late Blight
+Tomato,Clay,5.7,24,56,62,Healthy
+Tomato,Loamy,6.6,18,83,39,Early Blight
+Potato,Clay,6.9,27,55,157,Healthy
+Pepper,Clay,5.5,25,70,96,Healthy
+Potato,Loamy,6.3,34,67,149,Healthy
+Tomato,Loamy,6.6,27,94,67,Early Blight
+Potato,Loamy,6.1,19,68,127,Healthy
+Potato,Loamy,6.9,26,56,124,Healthy
+Pepper,Clay,6.6,31,78,174,Bacterial Spot
+Pepper,Clay,6.8,18,71,100,Bacterial Spot
+Tomato,Clay,5.6,28,66,48,Healthy
+Tomato,Sandy,7.2,33,74,113,Early Blight
+Tomato,Clay,6.9,28,59,124,Healthy
+Potato,Sandy,6.9,28,65,94,Healthy
+Tomato,Sandy,6.4,18,67,67,Healthy
+Tomato,Loamy,6.5,22,95,168,Late Blight
+Tomato,Loamy,7.0,19,66,57,Healthy
+Pepper,Clay,6.8,24,74,13,Bacterial Spot
+Pepper,Loamy,6.6,34,84,98,Bacterial Spot
+Pepper,Sandy,5.7,29,94,15,Bacterial Spot
+Potato,Sandy,5.8,29,74,150,Early Blight
+Potato,Clay,7.0,31,84,20,Early Blight
+Potato,Loamy,7.1,23,66,72,Healthy
+Tomato,Clay,6.2,29,72,119,Early Blight
+Tomato,Clay,6.0,26,82,79,Early Blight
+Potato,Sandy,6.1,32,87,71,Early Blight
+Pepper,Sandy,7.1,19,84,89,Bacterial Spot
+Potato,Sandy,6.0,32,93,165,Late Blight
+Tomato,Clay,6.2,27,75,123,Early Blight
+Potato,Loamy,6.3,34,56,56,Healthy
+Potato,Clay,6.2,18,79,153,Early Blight
+Pepper,Loamy,5.8,29,56,71,Healthy
+Pepper,Loamy,5.6,20,85,126,Bacterial Leaf Spot
+Pepper,Loamy,6.9,24,55,174,Healthy
+Pepper,Loamy,5.6,18,60,121,Healthy
+Tomato,Clay,7.0,34,73,39,Early Blight
+Potato,Clay,7.0,33,80,87,Early Blight
+Pepper,Clay,6.1,23,92,87,Bacterial Spot
+Potato,Sandy,6.8,32,62,175,Healthy
+Potato,Loamy,6.9,20,59,17,Healthy
+Tomato,Clay,6.7,22,64,29,Healthy
+Potato,Sandy,6.6,27,65,63,Healthy
+Pepper,Clay,7.1,26,85,16,Bacterial Spot
+Tomato,Clay,6.9,30,77,19,Early Blight
+Pepper,Clay,6.9,35,76,47,Bacterial Spot
+Pepper,Loamy,5.7,25,89,170,Bacterial Leaf Spot
+Pepper,Loamy,5.9,23,79,73,Bacterial Spot
+Potato,Clay,7.1,19,76,90,Early Blight
+Pepper,Sandy,6.6,30,68,83,Healthy
+Potato,Sandy,6.1,19,95,152,Late Blight
+Tomato,Loamy,7.0,32,70,37,Healthy
+Potato,Loamy,7.0,28,95,102,Late Blight
+Pepper,Loamy,6.6,18,84,173,Bacterial Leaf Spot
+Potato,Loamy,6.6,32,85,45,Early Blight
+Tomato,Sandy,6.6,34,84,16,Early Blight
+Tomato,Loamy,6.2,28,65,60,Healthy
+Potato,Sandy,6.8,32,75,41,Early Blight
+Potato,Clay,6.9,20,64,62,Healthy
+Tomato,Loamy,6.6,32,89,150,Late Blight
+Potato,Loamy,6.3,29,77,16,Early Blight
+Tomato,Clay,7.1,23,74,77,Early Blight
+Tomato,Clay,5.9,35,55,45,Healthy
+Pepper,Sandy,5.6,30,92,86,Bacterial Spot
+Tomato,Loamy,6.2,35,71,157,Early Blight
+Potato,Clay,5.8,20,74,92,Early Blight
+Tomato,Sandy,6.3,18,79,29,Early Blight
+Pepper,Sandy,5.7,30,95,34,Bacterial Spot
+Pepper,Clay,6.0,23,72,179,Bacterial Spot
+Pepper,Clay,6.7,22,56,74,Healthy
+Potato,Clay,6.0,34,60,139,Healthy
+Potato,Sandy,7.2,21,89,35,Early Blight
+Pepper,Loamy,6.6,29,87,101,Bacterial Leaf Spot
+Tomato,Clay,6.1,29,94,124,Late Blight
+Potato,Sandy,5.6,19,58,54,Healthy
+Pepper,Loamy,6.6,30,76,17,Bacterial Spot
+Pepper,Clay,6.9,28,76,147,Bacterial Spot
+Potato,Sandy,6.8,26,94,71,Early Blight
+Potato,Clay,6.9,29,66,11,Healthy
+Pepper,Clay,7.2,32,62,72,Healthy
+Pepper,Sandy,6.1,25,74,31,Bacterial Spot
+Pepper,Sandy,6.8,31,95,40,Bacterial Spot
+Pepper,Sandy,6.0,29,91,70,Bacterial Spot
+Tomato,Sandy,7.1,27,80,82,Early Blight
+Potato,Clay,5.9,35,88,104,Late Blight
+Potato,Sandy,6.6,26,86,176,Late Blight
+Potato,Sandy,5.5,24,84,109,Late Blight
+Tomato,Clay,6.2,28,79,111,Early Blight
+Tomato,Clay,6.2,21,73,44,Early Blight
+Tomato,Sandy,6.4,32,60,120,Healthy
+Potato,Clay,6.8,30,59,96,Healthy
+Pepper,Loamy,5.7,19,73,37,Bacterial Spot
+Potato,Loamy,6.2,25,60,130,Healthy
+Pepper,Sandy,6.8,24,80,88,Bacterial Spot
+Potato,Loamy,5.8,25,60,168,Healthy
+Tomato,Loamy,5.8,32,78,154,Early Blight
+Potato,Loamy,7.1,23,83,163,Late Blight
+Tomato,Sandy,6.6,21,68,97,Healthy
+Pepper,Clay,7.2,23,68,101,Healthy
+Pepper,Clay,7.2,34,76,133,Bacterial Spot
+Potato,Loamy,6.8,18,70,68,Healthy
+Pepper,Sandy,5.9,19,73,146,Bacterial Spot
+Potato,Clay,7.0,18,58,78,Healthy
+Pepper,Clay,5.8,21,59,114,Healthy
+Potato,Clay,6.2,32,60,177,Healthy
+Tomato,Clay,5.7,35,64,179,Healthy
+Tomato,Clay,6.5,25,57,170,Healthy
+Potato,Loamy,5.8,31,88,78,Early Blight
+Potato,Sandy,6.7,23,86,160,Late Blight
+Potato,Sandy,7.2,23,61,110,Healthy
+Pepper,Clay,6.4,27,65,103,Healthy
+Potato,Loamy,6.8,26,63,60,Healthy
+Potato,Clay,6.2,27,61,39,Healthy
+Pepper,Loamy,5.8,26,75,164,Bacterial Spot
+Tomato,Loamy,6.6,21,67,75,Healthy
+Pepper,Sandy,6.6,20,55,173,Healthy
+Tomato,Sandy,5.8,31,63,15,Healthy
+Tomato,Loamy,6.9,32,62,114,Healthy
+Pepper,Sandy,6.4,32,90,104,Bacterial Leaf Spot
+Pepper,Loamy,5.8,28,82,163,Bacterial Leaf Spot
+Tomato,Clay,6.2,30,69,156,Healthy
+Pepper,Loamy,5.9,29,59,25,Healthy
+Pepper,Loamy,7.1,21,88,23,Bacterial Spot
+Potato,Clay,7.1,29,68,163,Healthy
+Tomato,Clay,5.6,30,89,122,Late Blight
+Potato,Loamy,6.7,29,84,128,Late Blight
+Pepper,Clay,6.0,23,70,159,Healthy
+Tomato,Sandy,6.6,20,90,122,Late Blight
+Tomato,Loamy,6.5,20,69,97,Healthy
+Potato,Loamy,6.2,27,64,148,Healthy
+Pepper,Loamy,6.5,30,71,129,Bacterial Spot
+Pepper,Loamy,6.9,29,55,100,Healthy
+Pepper,Loamy,5.7,23,64,23,Healthy
+Potato,Clay,5.9,23,57,128,Healthy
+Tomato,Loamy,5.8,23,57,94,Healthy
+Tomato,Loamy,6.4,29,86,13,Early Blight
+Pepper,Loamy,5.6,21,83,116,Bacterial Leaf Spot
+Tomato,Clay,6.9,33,90,137,Late Blight
+Potato,Loamy,6.0,28,69,165,Healthy
+Tomato,Loamy,5.7,33,67,161,Healthy
+Tomato,Sandy,7.0,35,91,165,Late Blight
+Pepper,Sandy,5.6,27,78,25,Bacterial Spot
+Tomato,Clay,7.2,22,85,24,Early Blight
+Tomato,Loamy,6.7,27,77,50,Early Blight
+Pepper,Clay,5.8,26,93,167,Bacterial Leaf Spot
+Tomato,Clay,7.1,32,61,24,Healthy
+Potato,Loamy,6.1,27,81,172,Late Blight
+Potato,Sandy,5.9,24,87,71,Early Blight
+Potato,Sandy,6.4,29,62,12,Healthy
+Pepper,Clay,6.8,20,62,163,Healthy
+Potato,Clay,7.0,21,68,175,Healthy
+Tomato,Clay,6.6,30,61,155,Healthy
+Tomato,Loamy,6.4,29,63,10,Healthy
+Potato,Sandy,6.9,30,66,87,Healthy
+Pepper,Sandy,6.1,22,86,131,Bacterial Leaf Spot
+Pepper,Clay,6.2,27,65,81,Healthy
+Potato,Sandy,6.2,24,93,79,Early Blight
+Potato,Sandy,6.2,19,92,140,Late Blight
+Potato,Clay,6.9,25,76,47,Early Blight
+Potato,Loamy,5.8,30,75,157,Early Blight
+Tomato,Sandy,6.9,24,80,106,Early Blight
+Tomato,Sandy,6.0,30,83,49,Early Blight
+Tomato,Sandy,5.7,25,71,18,Early Blight
+Tomato,Clay,6.8,27,69,100,Healthy
+Pepper,Clay,7.0,23,80,177,Bacterial Spot
+Potato,Sandy,5.9,30,70,156,Healthy
+Tomato,Loamy,6.6,33,69,179,Healthy
+Potato,Sandy,5.7,30,91,63,Early Blight
+Pepper,Loamy,5.6,19,89,90,Bacterial Spot
+Pepper,Sandy,5.5,27,75,91,Bacterial Spot
+Potato,Sandy,6.4,31,81,131,Late Blight
+Tomato,Clay,6.5,30,67,68,Healthy
+Pepper,Clay,5.5,22,90,159,Bacterial Leaf Spot
+Pepper,Loamy,7.2,18,60,146,Healthy
+Tomato,Loamy,6.0,19,78,85,Early Blight
+Pepper,Clay,5.7,25,56,87,Healthy
+Pepper,Loamy,6.9,23,77,127,Bacterial Spot
+Pepper,Sandy,6.8,32,64,33,Healthy
+Tomato,Sandy,5.9,25,67,152,Healthy
+Potato,Sandy,5.8,34,67,86,Healthy
+Tomato,Clay,6.4,18,69,61,Healthy
+Pepper,Clay,7.1,28,71,52,Bacterial Spot
+Pepper,Sandy,6.8,33,94,87,Bacterial Spot
+Tomato,Clay,5.5,19,76,153,Early Blight
+Pepper,Loamy,5.8,26,87,129,Bacterial Leaf Spot
+Tomato,Clay,5.8,18,67,96,Healthy
+Pepper,Clay,5.9,22,80,121,Bacterial Spot
+Pepper,Loamy,6.1,28,83,58,Bacterial Spot
+Tomato,Clay,5.7,35,66,96,Healthy
+Pepper,Sandy,6.1,33,85,125,Bacterial Leaf Spot
+Pepper,Sandy,6.6,21,69,36,Healthy
+Potato,Sandy,6.8,24,88,35,Early Blight
+Tomato,Sandy,6.4,22,80,111,Early Blight
+Tomato,Loamy,7.2,26,89,38,Early Blight
+Potato,Loamy,6.1,34,61,175,Healthy
+Potato,Clay,6.1,23,55,33,Healthy
+Potato,Sandy,7.2,29,69,120,Healthy
+Potato,Clay,6.9,20,91,107,Late Blight
+Tomato,Clay,6.4,26,71,103,Early Blight
+Potato,Clay,6.8,29,90,50,Early Blight
+Potato,Sandy,6.6,29,60,12,Healthy
+Tomato,Sandy,6.4,32,72,90,Early Blight
+Tomato,Sandy,6.1,35,93,86,Early Blight
+Pepper,Clay,7.2,25,59,143,Healthy
+Potato,Loamy,6.5,35,93,65,Early Blight
+Potato,Clay,5.8,35,95,179,Late Blight
+Tomato,Loamy,6.6,30,67,132,Healthy
+Tomato,Loamy,6.0,18,89,101,Late Blight
+Pepper,Clay,5.7,29,69,61,Healthy
+Potato,Clay,6.4,32,63,126,Healthy
+Potato,Loamy,5.7,32,95,137,Late Blight
+Potato,Clay,6.3,34,61,37,Healthy
+Pepper,Clay,6.7,30,85,64,Bacterial Spot
+Potato,Sandy,5.7,33,70,88,Healthy
+Pepper,Loamy,5.9,24,68,136,Healthy
+Pepper,Sandy,6.0,24,73,158,Bacterial Spot
+Pepper,Sandy,7.2,24,94,27,Bacterial Spot
+Potato,Sandy,7.2,31,61,138,Healthy
+Tomato,Loamy,6.8,28,85,109,Late Blight
+Pepper,Sandy,6.0,20,62,122,Healthy
+Tomato,Clay,5.7,28,92,75,Early Blight
+Pepper,Clay,5.5,29,60,80,Healthy
+Tomato,Loamy,7.0,20,79,97,Early Blight
+Pepper,Loamy,6.7,23,61,161,Healthy
+Pepper,Sandy,6.0,29,68,29,Healthy
+Pepper,Sandy,5.9,19,58,112,Healthy
+Pepper,Sandy,5.8,27,93,123,Bacterial Leaf Spot
+Tomato,Loamy,5.6,21,92,19,Early Blight
+Potato,Loamy,6.1,35,65,123,Healthy
+Potato,Sandy,6.8,27,63,94,Healthy
+Pepper,Loamy,5.9,21,62,47,Healthy
+Pepper,Sandy,5.9,32,79,96,Bacterial Spot
+Pepper,Clay,7.1,32,69,12,Healthy
+Tomato,Sandy,6.2,34,89,51,Early Blight
+Pepper,Loamy,5.9,22,83,62,Bacterial Spot
+Pepper,Sandy,7.0,20,63,153,Healthy
+Potato,Loamy,6.1,20,87,20,Early Blight
+Tomato,Sandy,7.2,20,64,62,Healthy
+Potato,Sandy,6.5,19,73,116,Early Blight
+Tomato,Loamy,6.4,24,62,156,Healthy
+Pepper,Loamy,7.0,25,57,105,Healthy
+Potato,Loamy,7.1,30,84,97,Early Blight
+Tomato,Clay,6.1,19,77,179,Early Blight
+Tomato,Sandy,6.6,25,95,129,Late Blight
+Tomato,Sandy,6.5,24,73,144,Early Blight
+Tomato,Clay,6.4,21,89,81,Early Blight
+Potato,Sandy,7.2,32,84,100,Early Blight
+Potato,Sandy,7.1,24,64,11,Healthy
+Potato,Loamy,5.7,35,95,110,Late Blight
+Potato,Clay,7.0,32,75,132,Early Blight
+Tomato,Loamy,6.0,23,80,67,Early Blight
+Tomato,Sandy,6.3,26,88,99,Early Blight
+Potato,Sandy,6.2,34,71,64,Early Blight
+Tomato,Loamy,6.1,32,58,146,Healthy
+Pepper,Clay,6.9,26,75,154,Bacterial Spot
+Potato,Loamy,7.0,20,63,68,Healthy
+Potato,Loamy,6.2,30,86,38,Early Blight
+Pepper,Loamy,6.1,23,84,172,Bacterial Leaf Spot
+Pepper,Sandy,6.6,35,82,151,Bacterial Leaf Spot
+Pepper,Clay,5.9,26,90,150,Bacterial Leaf Spot
+Pepper,Clay,6.6,21,55,122,Healthy
+Tomato,Loamy,7.2,35,73,50,Early Blight
+Potato,Clay,6.8,18,80,21,Early Blight
+Potato,Clay,7.2,19,85,64,Early Blight
+Tomato,Loamy,6.3,33,77,62,Early Blight
+Potato,Loamy,6.1,18,69,132,Healthy
+Potato,Sandy,5.6,27,73,11,Early Blight
+Tomato,Clay,7.0,22,58,77,Healthy
+Pepper,Clay,6.0,29,75,34,Bacterial Spot
+Tomato,Loamy,5.7,30,87,115,Late Blight
+Potato,Loamy,6.5,30,65,73,Healthy
+Potato,Sandy,6.2,31,67,56,Healthy
+Pepper,Sandy,6.2,24,68,96,Healthy
+Potato,Clay,6.2,21,58,28,Healthy
+Tomato,Clay,7.1,19,65,85,Healthy
+Tomato,Sandy,6.2,31,92,165,Late Blight
+Potato,Clay,6.9,19,66,145,Healthy
+Pepper,Sandy,6.4,29,70,16,Healthy
+Tomato,Loamy,7.0,25,61,135,Healthy
+Tomato,Sandy,5.8,18,72,102,Early Blight
+Tomato,Sandy,6.2,25,80,80,Early Blight
+Potato,Sandy,6.1,28,71,140,Early Blight
+Potato,Clay,6.6,26,62,99,Healthy
+Tomato,Loamy,6.1,18,58,165,Healthy
+Potato,Clay,6.1,22,76,135,Early Blight
+Pepper,Sandy,6.5,32,90,37,Bacterial Spot
+Pepper,Clay,6.6,33,75,127,Bacterial Spot
+Tomato,Loamy,5.7,25,67,103,Healthy
+Potato,Clay,6.1,32,82,15,Early Blight
+Tomato,Sandy,7.2,22,61,101,Healthy
+Tomato,Loamy,6.2,31,58,93,Healthy
+Tomato,Sandy,5.6,20,90,157,Late Blight
+Pepper,Clay,6.0,21,81,19,Bacterial Spot
+Potato,Loamy,6.3,29,94,54,Early Blight
+Tomato,Loamy,5.6,31,71,126,Early Blight
+Pepper,Sandy,6.4,29,92,169,Bacterial Leaf Spot
+Potato,Sandy,7.1,35,69,57,Healthy
+Potato,Clay,5.7,30,82,78,Early Blight
+Potato,Loamy,5.9,21,69,16,Healthy
+Pepper,Sandy,6.9,23,94,87,Bacterial Spot
+Potato,Loamy,5.5,19,58,98,Healthy
+Tomato,Clay,6.5,23,68,169,Healthy
+Potato,Clay,7.1,18,58,24,Healthy
+Tomato,Sandy,6.0,27,76,75,Early Blight
+Pepper,Loamy,6.9,20,85,96,Bacterial Spot
+Potato,Loamy,5.5,24,91,105,Late Blight
+Tomato,Loamy,7.1,27,57,28,Healthy
+Potato,Clay,5.5,20,83,24,Early Blight
+Tomato,Clay,5.5,19,90,143,Late Blight
+Pepper,Clay,6.5,26,68,55,Healthy
+Potato,Loamy,6.6,32,93,148,Late Blight
+Pepper,Loamy,5.8,27,65,61,Healthy
+Potato,Clay,6.4,34,63,18,Healthy
+Pepper,Sandy,6.1,24,71,39,Bacterial Spot
+Pepper,Loamy,6.9,26,78,33,Bacterial Spot
+Tomato,Sandy,5.6,34,93,167,Late Blight
+Potato,Clay,5.8,28,68,121,Healthy
+Tomato,Loamy,6.8,24,95,147,Late Blight
+Potato,Loamy,6.0,29,75,39,Early Blight
+Tomato,Loamy,7.2,35,69,12,Healthy
+Tomato,Loamy,6.3,20,76,72,Early Blight
+Tomato,Loamy,6.1,21,83,45,Early Blight
+Potato,Loamy,6.3,21,89,179,Late Blight
+Tomato,Clay,6.2,28,61,25,Healthy
+Pepper,Sandy,5.6,30,86,144,Bacterial Leaf Spot
+Potato,Sandy,6.0,30,82,69,Early Blight
+Potato,Clay,6.3,26,73,133,Early Blight
+Pepper,Sandy,7.0,25,68,161,Healthy
+Pepper,Sandy,5.6,21,77,115,Bacterial Spot
+Pepper,Clay,6.2,27,77,30,Bacterial Spot
+Pepper,Sandy,5.9,18,66,125,Healthy
+Pepper,Sandy,5.9,25,87,172,Bacterial Leaf Spot
+Potato,Loamy,7.1,28,80,141,Early Blight
+Pepper,Clay,7.0,30,87,133,Bacterial Leaf Spot
+Pepper,Sandy,5.9,27,65,138,Healthy
+Pepper,Sandy,6.3,31,66,34,Healthy
+Tomato,Clay,6.7,34,73,87,Early Blight
+Potato,Clay,6.3,29,95,164,Late Blight
+Tomato,Clay,6.9,29,57,117,Healthy
+Tomato,Sandy,5.7,33,81,107,Late Blight
+Tomato,Clay,5.6,27,83,158,Late Blight
+Pepper,Loamy,5.7,34,77,170,Bacterial Spot
+Pepper,Clay,6.8,30,94,149,Bacterial Leaf Spot
+Tomato,Sandy,7.0,27,94,127,Late Blight
+Pepper,Loamy,7.0,18,68,164,Healthy
+Tomato,Loamy,6.3,35,66,45,Healthy
+Pepper,Sandy,5.5,29,87,80,Bacterial Spot
+Pepper,Clay,6.1,29,70,109,Healthy
+Pepper,Clay,6.7,31,83,65,Bacterial Spot
+Pepper,Clay,7.1,24,72,69,Bacterial Spot
+Pepper,Sandy,6.5,25,63,109,Healthy
+Pepper,Clay,5.8,21,69,56,Healthy
+Pepper,Loamy,6.8,32,66,35,Healthy
+Tomato,Loamy,6.5,20,86,91,Early Blight
+Potato,Loamy,6.4,24,82,105,Late Blight
+Tomato,Sandy,5.6,28,72,155,Early Blight
+Tomato,Clay,5.8,25,73,46,Early Blight
+Pepper,Loamy,6.7,30,94,83,Bacterial Spot
+Pepper,Loamy,6.9,25,68,179,Healthy
+Tomato,Clay,7.0,32,87,97,Early Blight
+Potato,Clay,5.8,30,56,36,Healthy
+Tomato,Clay,5.9,26,80,76,Early Blight
+Tomato,Loamy,7.1,28,89,152,Late Blight
+Tomato,Sandy,6.8,29,84,55,Early Blight
+Potato,Clay,5.9,18,70,26,Healthy
+Tomato,Clay,6.7,25,82,23,Early Blight
+Potato,Loamy,5.6,32,77,80,Early Blight
+Tomato,Loamy,6.1,27,59,160,Healthy
+Tomato,Loamy,5.9,24,95,144,Late Blight
+Tomato,Clay,6.6,34,55,82,Healthy
+Tomato,Clay,6.0,29,71,25,Early Blight
+Tomato,Loamy,6.7,24,92,27,Early Blight
+Tomato,Clay,6.9,23,86,128,Late Blight
+Tomato,Clay,6.5,28,56,145,Healthy
+Pepper,Sandy,7.0,33,89,10,Bacterial Spot
+Pepper,Sandy,7.0,27,76,50,Bacterial Spot
+Tomato,Sandy,7.1,29,87,54,Early Blight
+Pepper,Clay,6.7,24,73,20,Bacterial Spot
+Potato,Sandy,5.8,22,87,141,Late Blight
+Pepper,Sandy,6.4,35,57,75,Healthy
+Potato,Loamy,5.6,19,77,121,Early Blight
+Tomato,Loamy,5.5,25,73,34,Early Blight
+Potato,Loamy,5.8,18,78,170,Early Blight
+Potato,Clay,5.8,27,93,29,Early Blight
+Pepper,Loamy,6.4,19,62,161,Healthy
+Potato,Sandy,6.9,26,92,27,Early Blight
+Tomato,Loamy,6.9,34,75,176,Early Blight
+Potato,Clay,7.1,19,72,32,Early Blight
+Potato,Clay,6.3,19,87,103,Late Blight
+Tomato,Sandy,6.7,29,55,38,Healthy
+Tomato,Sandy,5.8,34,78,177,Early Blight
+Potato,Loamy,7.1,25,85,159,Late Blight
+Potato,Loamy,5.5,23,84,15,Early Blight
+Tomato,Clay,5.8,18,64,178,Healthy
+Potato,Loamy,5.7,23,63,114,Healthy
+Pepper,Clay,6.4,29,62,159,Healthy
+Potato,Sandy,6.1,19,73,39,Early Blight
+Pepper,Sandy,5.5,32,62,118,Healthy
+Pepper,Sandy,7.1,23,84,43,Bacterial Spot
+Pepper,Loamy,6.2,29,83,158,Bacterial Leaf Spot
+Potato,Clay,5.9,21,72,131,Early Blight
+Potato,Sandy,6.3,32,55,64,Healthy
+Pepper,Clay,5.5,18,91,106,Bacterial Leaf Spot
+Potato,Loamy,5.8,35,70,115,Healthy
+Tomato,Sandy,5.6,23,63,123,Healthy
+Potato,Clay,7.1,22,73,58,Early Blight
+Tomato,Sandy,7.1,20,93,142,Late Blight
+Tomato,Loamy,6.9,31,59,110,Healthy
+Pepper,Sandy,6.4,25,70,81,Healthy
+Tomato,Clay,5.7,18,83,148,Late Blight
+Tomato,Clay,6.9,19,82,20,Early Blight
+Tomato,Clay,7.1,28,60,97,Healthy
+Pepper,Loamy,5.5,35,58,51,Healthy
+Pepper,Loamy,6.0,34,69,85,Healthy
+Tomato,Sandy,6.9,18,84,54,Early Blight
+Potato,Clay,6.3,31,76,28,Early Blight
+Tomato,Loamy,6.2,23,91,152,Late Blight
+Potato,Loamy,6.1,25,79,126,Early Blight
+Potato,Sandy,5.9,33,91,130,Late Blight
+Potato,Sandy,5.7,31,60,75,Healthy
+Tomato,Clay,7.0,28,67,42,Healthy
+Tomato,Clay,7.2,27,94,28,Early Blight
+Tomato,Sandy,5.8,34,82,164,Late Blight
+Tomato,Loamy,6.4,21,76,55,Early Blight
+Pepper,Loamy,5.9,27,73,55,Bacterial Spot
+Tomato,Sandy,6.0,25,88,174,Late Blight
+Potato,Clay,6.6,26,61,16,Healthy
+Potato,Sandy,6.0,19,75,102,Early Blight
+Pepper,Sandy,6.7,23,57,122,Healthy
+Potato,Clay,6.5,23,80,133,Early Blight
+Pepper,Loamy,7.1,31,71,21,Bacterial Spot
+Potato,Sandy,7.1,35,93,26,Early Blight
+Potato,Sandy,6.4,27,66,64,Healthy
+Tomato,Sandy,6.7,24,71,70,Early Blight
+Tomato,Loamy,7.1,30,69,39,Healthy
+Pepper,Clay,6.4,29,64,48,Healthy
+Pepper,Clay,6.1,23,78,175,Bacterial Spot
+Tomato,Sandy,6.3,30,70,141,Healthy
+Tomato,Sandy,6.2,32,87,113,Late Blight
+Potato,Sandy,6.1,28,71,157,Early Blight
+Tomato,Clay,7.1,26,80,14,Early Blight
+Tomato,Sandy,6.0,29,58,11,Healthy
+Potato,Loamy,6.2,28,81,104,Late Blight
+Potato,Loamy,6.5,21,92,176,Late Blight
+Potato,Sandy,6.7,24,59,42,Healthy
+Tomato,Sandy,5.6,22,90,99,Early Blight
+Pepper,Sandy,5.7,29,82,99,Bacterial Spot
+Tomato,Clay,5.6,26,92,131,Late Blight
+Pepper,Sandy,5.5,20,71,120,Bacterial Spot
+Potato,Clay,5.6,18,93,78,Early Blight
+Tomato,Sandy,6.7,35,77,35,Early Blight
+Tomato,Sandy,5.7,35,78,177,Early Blight
+Potato,Loamy,7.1,23,59,174,Healthy
+Potato,Loamy,6.2,35,56,123,Healthy
+Potato,Loamy,6.0,18,83,41,Early Blight
+Potato,Loamy,6.3,32,68,44,Healthy
+Potato,Clay,5.8,32,79,126,Early Blight
+Pepper,Clay,5.8,32,94,14,Bacterial Spot
+Pepper,Sandy,6.9,26,95,150,Bacterial Leaf Spot
+Potato,Loamy,6.6,35,79,49,Early Blight
+Tomato,Clay,5.9,35,90,136,Late Blight
+Tomato,Loamy,6.0,21,91,151,Late Blight
+Pepper,Clay,5.8,33,94,75,Bacterial Spot
+Potato,Sandy,6.4,29,88,58,Early Blight
+Potato,Clay,6.4,32,88,89,Early Blight
+Potato,Sandy,5.9,32,90,80,Early Blight
+Potato,Clay,6.8,26,86,72,Early Blight
+Potato,Sandy,7.1,26,61,134,Healthy
+Pepper,Clay,5.7,28,89,126,Bacterial Leaf Spot
+Tomato,Sandy,6.6,34,89,19,Early Blight
+Potato,Sandy,6.4,35,70,16,Healthy
+Potato,Clay,6.6,35,91,98,Early Blight
+Tomato,Clay,6.8,32,89,105,Late Blight
+Tomato,Sandy,6.1,22,86,91,Early Blight
+Pepper,Sandy,5.8,21,86,98,Bacterial Spot
+Tomato,Sandy,7.2,34,58,134,Healthy
+Potato,Sandy,6.2,23,95,177,Late Blight
+Potato,Sandy,6.6,35,84,12,Early Blight
+Pepper,Loamy,6.2,29,63,161,Healthy
+Pepper,Sandy,5.8,25,63,144,Healthy
+Tomato,Loamy,6.7,26,88,52,Early Blight
+Potato,Sandy,6.2,26,64,44,Healthy
+Tomato,Clay,6.4,18,94,73,Early Blight
+Pepper,Loamy,5.5,22,55,175,Healthy
+Pepper,Sandy,6.1,23,84,73,Bacterial Spot
+Potato,Clay,6.5,35,88,114,Late Blight
+Pepper,Clay,6.4,34,85,168,Bacterial Leaf Spot
+Pepper,Clay,6.8,29,63,139,Healthy
+Potato,Loamy,6.6,33,73,155,Early Blight
+Pepper,Sandy,6.6,27,60,154,Healthy
+Pepper,Clay,7.1,35,74,157,Bacterial Spot
+Pepper,Loamy,7.0,27,81,149,Bacterial Leaf Spot
+Pepper,Loamy,6.0,35,93,61,Bacterial Spot
+Potato,Clay,5.5,24,73,166,Early Blight
+Pepper,Loamy,7.1,24,61,26,Healthy
+Tomato,Loamy,7.1,34,82,71,Early Blight
+Pepper,Sandy,6.1,25,78,100,Bacterial Spot
+Pepper,Loamy,6.5,20,83,177,Bacterial Leaf Spot
+Pepper,Loamy,6.5,34,74,36,Bacterial Spot
+Tomato,Sandy,7.0,19,85,63,Early Blight
+Potato,Clay,6.3,26,61,70,Healthy
+Potato,Sandy,5.6,35,74,58,Early Blight
+Pepper,Loamy,5.8,29,75,162,Bacterial Spot
+Pepper,Loamy,7.0,33,93,176,Bacterial Leaf Spot
+Pepper,Clay,6.3,18,62,54,Healthy
+Pepper,Sandy,5.9,26,85,120,Bacterial Leaf Spot
+Tomato,Clay,6.2,27,70,180,Healthy
+Potato,Clay,7.1,19,65,48,Healthy
+Pepper,Clay,6.5,22,73,30,Bacterial Spot
+Tomato,Loamy,6.0,26,94,142,Late Blight
+Pepper,Sandy,6.7,19,79,97,Bacterial Spot
+Tomato,Clay,6.4,20,62,37,Healthy
+Potato,Sandy,6.0,26,82,48,Early Blight
+Pepper,Sandy,6.0,23,88,103,Bacterial Leaf Spot
+Pepper,Clay,5.8,22,86,172,Bacterial Leaf Spot
+Tomato,Loamy,6.1,20,62,52,Healthy
+Pepper,Sandy,6.0,25,71,25,Bacterial Spot
+Pepper,Loamy,6.5,27,67,66,Healthy
+Pepper,Sandy,6.4,25,94,86,Bacterial Spot
+Pepper,Sandy,5.6,20,58,131,Healthy
+Pepper,Clay,6.7,23,71,101,Bacterial Spot
+Pepper,Clay,6.8,27,66,141,Healthy
+Pepper,Loamy,6.8,30,55,180,Healthy
+Pepper,Sandy,7.1,19,85,13,Bacterial Spot
+Pepper,Clay,5.7,26,93,73,Bacterial Spot
+Tomato,Clay,6.7,20,57,100,Healthy
+Pepper,Clay,5.5,25,91,67,Bacterial Spot
+Potato,Loamy,6.9,21,91,96,Early Blight
+Pepper,Sandy,5.6,22,57,62,Healthy
+Pepper,Clay,6.3,29,61,159,Healthy
+Potato,Loamy,7.2,34,94,120,Late Blight
+Potato,Loamy,6.1,23,89,103,Late Blight
+Tomato,Loamy,6.1,33,78,177,Early Blight
+Pepper,Loamy,6.0,33,85,96,Bacterial Spot
+Potato,Loamy,6.9,19,69,129,Healthy
+Tomato,Sandy,6.6,21,64,124,Healthy
+Tomato,Clay,5.9,32,94,121,Late Blight
+Tomato,Clay,5.6,32,77,100,Early Blight
+Pepper,Sandy,5.9,29,84,63,Bacterial Spot
+Potato,Sandy,7.2,21,95,73,Early Blight
+Pepper,Sandy,6.3,32,64,39,Healthy
+Potato,Clay,6.5,22,88,119,Late Blight
+Pepper,Loamy,5.7,26,95,40,Bacterial Spot
+Potato,Sandy,5.8,18,95,84,Early Blight
+Potato,Sandy,6.5,26,84,30,Early Blight
+Pepper,Loamy,6.1,35,71,59,Bacterial Spot
+Potato,Loamy,5.6,21,67,114,Healthy
+Potato,Clay,6.1,26,63,149,Healthy
+Potato,Clay,6.1,32,88,142,Late Blight
+Tomato,Clay,6.9,22,75,64,Early Blight
+Pepper,Sandy,6.1,29,75,173,Bacterial Spot
+Pepper,Clay,6.3,26,84,30,Bacterial Spot
+Pepper,Clay,6.4,32,88,40,Bacterial Spot
+Potato,Sandy,5.8,20,77,127,Early Blight
+Tomato,Clay,6.2,18,58,79,Healthy
+Tomato,Clay,5.6,23,64,97,Healthy
+Tomato,Clay,6.2,30,71,107,Early Blight
+Potato,Sandy,6.9,33,82,72,Early Blight
+Potato,Sandy,6.2,19,68,15,Healthy
+Potato,Clay,6.5,32,82,42,Early Blight
+Potato,Sandy,7.0,20,70,124,Healthy
+Pepper,Clay,7.2,18,61,142,Healthy
+Potato,Sandy,6.8,27,95,111,Late Blight
+Pepper,Sandy,5.9,24,67,50,Healthy
+Tomato,Loamy,7.1,25,86,41,Early Blight
+Tomato,Sandy,5.5,27,87,116,Late Blight
+Potato,Clay,5.7,28,69,24,Healthy
+Tomato,Sandy,5.8,21,72,42,Early Blight
+Tomato,Loamy,7.1,20,91,149,Late Blight
+Pepper,Sandy,5.6,21,65,150,Healthy
+Potato,Sandy,6.0,22,66,96,Healthy
+Tomato,Sandy,7.1,19,57,58,Healthy
+Potato,Clay,6.9,34,63,127,Healthy
+Tomato,Clay,6.2,30,55,35,Healthy
+Potato,Clay,6.0,26,57,165,Healthy
+Potato,Clay,6.9,19,57,109,Healthy
+Tomato,Loamy,6.9,32,61,124,Healthy
+Pepper,Sandy,6.2,30,89,15,Bacterial Spot
+Tomato,Sandy,5.8,33,73,139,Early Blight
+Tomato,Loamy,5.8,22,78,22,Early Blight
+Pepper,Clay,7.0,24,61,145,Healthy
+Pepper,Sandy,6.0,29,58,100,Healthy
+Pepper,Clay,5.8,27,76,114,Bacterial Spot
+Potato,Sandy,6.5,32,92,127,Late Blight
+Pepper,Loamy,5.5,31,72,34,Bacterial Spot
+Potato,Sandy,6.0,24,69,167,Healthy
+Potato,Clay,5.9,26,84,114,Late Blight
+Potato,Sandy,6.2,21,88,22,Early Blight
+Tomato,Sandy,5.8,24,87,81,Early Blight
+Potato,Clay,5.9,31,91,72,Early Blight
+Potato,Loamy,6.2,24,76,71,Early Blight
+Pepper,Clay,7.0,30,68,136,Healthy
+Pepper,Loamy,6.6,21,74,92,Bacterial Spot
+Potato,Loamy,7.1,35,70,115,Healthy
+Pepper,Clay,7.1,23,93,81,Bacterial Spot
+Tomato,Clay,6.8,35,56,166,Healthy
+Tomato,Sandy,5.9,21,65,78,Healthy
+Pepper,Clay,5.7,29,73,78,Bacterial Spot
+Potato,Loamy,6.4,34,87,13,Early Blight
+Tomato,Loamy,6.3,33,81,52,Early Blight
+Pepper,Sandy,6.3,24,84,101,Bacterial Leaf Spot
+Pepper,Clay,6.3,30,59,81,Healthy
+Pepper,Sandy,6.6,35,93,110,Bacterial Leaf Spot
+Tomato,Clay,7.0,22,88,68,Early Blight
+Tomato,Loamy,7.1,35,93,113,Late Blight
+Pepper,Sandy,5.6,32,81,73,Bacterial Spot
+Potato,Loamy,5.6,35,93,165,Late Blight
+Potato,Clay,5.9,35,80,145,Early Blight
+Potato,Loamy,6.1,22,71,32,Early Blight
+Potato,Sandy,5.8,35,71,168,Early Blight
+Pepper,Clay,6.1,24,66,138,Healthy
+Pepper,Clay,6.6,24,62,139,Healthy
+Pepper,Loamy,5.8,28,84,41,Bacterial Spot
+Potato,Loamy,5.9,31,65,34,Healthy
+Potato,Clay,6.0,29,91,35,Early Blight
+Potato,Sandy,5.9,26,66,171,Healthy
+Potato,Clay,6.3,35,70,107,Healthy
+Tomato,Clay,6.0,22,88,132,Late Blight
+Pepper,Loamy,7.1,18,87,93,Bacterial Spot
+Potato,Sandy,6.3,19,87,87,Early Blight
+Tomato,Clay,5.9,30,56,147,Healthy
+Potato,Sandy,6.0,18,67,128,Healthy
+Pepper,Loamy,6.0,29,59,156,Healthy
+Pepper,Loamy,7.0,32,62,149,Healthy
+Pepper,Loamy,6.4,31,94,159,Bacterial Leaf Spot
+Potato,Sandy,6.0,29,62,112,Healthy
+Pepper,Sandy,6.6,27,91,136,Bacterial Leaf Spot
+Potato,Loamy,7.0,32,73,28,Early Blight
+Potato,Loamy,6.3,21,74,167,Early Blight
+Tomato,Clay,6.5,26,80,16,Early Blight
+Potato,Loamy,5.9,23,56,101,Healthy
+Tomato,Sandy,7.0,32,86,49,Early Blight
+Potato,Loamy,7.0,28,92,35,Early Blight
+Pepper,Clay,7.2,26,83,61,Bacterial Spot
+Tomato,Sandy,7.1,21,63,46,Healthy
+Tomato,Sandy,5.8,25,83,69,Early Blight
+Potato,Clay,5.9,23,83,32,Early Blight
+Pepper,Clay,5.7,33,82,142,Bacterial Leaf Spot
+Tomato,Clay,7.1,18,79,122,Early Blight
+Potato,Clay,6.6,27,74,35,Early Blight
+Potato,Sandy,6.5,24,57,131,Healthy
+Potato,Loamy,5.7,20,83,81,Early Blight
+Pepper,Loamy,6.6,21,87,90,Bacterial Spot
+Potato,Sandy,6.5,32,55,129,Healthy
+Potato,Sandy,5.8,35,88,115,Late Blight
+Pepper,Sandy,5.6,26,76,38,Bacterial Spot
+Pepper,Loamy,6.0,20,58,47,Healthy
+Potato,Loamy,7.2,18,61,121,Healthy
+Tomato,Sandy,7.1,30,76,13,Early Blight
+Pepper,Loamy,5.9,18,68,158,Healthy
+Potato,Sandy,7.1,20,73,144,Early Blight
+Tomato,Clay,5.8,21,75,156,Early Blight
+Pepper,Sandy,5.7,26,88,143,Bacterial Leaf Spot
+Pepper,Loamy,6.6,18,79,92,Bacterial Spot
+Pepper,Clay,6.0,34,70,170,Healthy
+Potato,Loamy,5.7,22,83,57,Early Blight
+Potato,Sandy,6.5,28,92,113,Late Blight
+Pepper,Loamy,6.1,20,81,153,Bacterial Leaf Spot
+Potato,Clay,7.0,23,63,157,Healthy
+Potato,Loamy,6.9,26,84,43,Early Blight
+Pepper,Loamy,6.2,26,86,69,Bacterial Spot
+Pepper,Clay,6.3,22,92,18,Bacterial Spot
+Pepper,Sandy,6.5,35,57,132,Healthy
+Pepper,Clay,6.7,30,68,142,Healthy
+Pepper,Sandy,7.0,28,61,137,Healthy
+Pepper,Sandy,7.2,29,95,77,Bacterial Spot
+Potato,Sandy,5.9,28,79,60,Early Blight
+Pepper,Clay,6.9,20,70,17,Healthy
+Pepper,Sandy,6.0,23,56,99,Healthy
+Pepper,Loamy,6.2,19,71,145,Bacterial Spot
+Pepper,Sandy,5.8,25,69,107,Healthy
+Potato,Loamy,6.1,27,57,120,Healthy
+Tomato,Sandy,6.9,31,83,146,Late Blight
+Tomato,Loamy,7.2,32,82,98,Early Blight
+Tomato,Loamy,6.7,24,88,83,Early Blight
+Pepper,Loamy,6.2,29,68,36,Healthy
+Pepper,Sandy,5.9,32,77,150,Bacterial Spot
+Tomato,Clay,6.0,22,61,155,Healthy
+Pepper,Loamy,6.4,29,62,93,Healthy
+Pepper,Clay,6.9,26,89,24,Bacterial Spot
+Pepper,Sandy,6.6,19,76,28,Bacterial Spot
+Potato,Sandy,5.8,25,85,45,Early Blight
+Pepper,Loamy,6.9,26,62,138,Healthy
+Tomato,Loamy,6.1,24,70,168,Healthy
+Potato,Loamy,6.2,32,90,21,Early Blight
+Tomato,Sandy,6.7,32,77,123,Early Blight
+Tomato,Sandy,6.6,26,57,137,Healthy
+Potato,Loamy,7.1,33,62,107,Healthy
+Pepper,Clay,5.7,34,58,106,Healthy
+Tomato,Clay,7.0,24,75,102,Early Blight
+Pepper,Sandy,6.0,21,83,74,Bacterial Spot
+Pepper,Sandy,6.4,30,77,102,Bacterial Spot
+Pepper,Loamy,6.7,19,93,89,Bacterial Spot
+Pepper,Sandy,5.6,21,87,76,Bacterial Spot
+Pepper,Clay,5.7,25,61,40,Healthy
+Tomato,Loamy,6.4,22,71,146,Early Blight
+Pepper,Sandy,6.1,21,62,27,Healthy
+Tomato,Loamy,6.9,24,65,42,Healthy
+Pepper,Sandy,5.8,34,65,20,Healthy
+Potato,Loamy,7.2,34,74,141,Early Blight
+Potato,Clay,5.8,28,91,44,Early Blight
+Pepper,Sandy,6.5,32,62,123,Healthy
+Pepper,Clay,5.9,34,79,101,Bacterial Spot
+Potato,Sandy,5.9,27,60,101,Healthy
+Pepper,Sandy,5.8,23,63,138,Healthy
+Potato,Sandy,6.9,30,81,139,Late Blight
+Potato,Sandy,6.0,32,94,61,Early Blight
+Pepper,Clay,6.9,21,72,144,Bacterial Spot
+Tomato,Loamy,6.7,19,83,75,Early Blight
+Potato,Loamy,6.6,33,57,130,Healthy
+Pepper,Loamy,6.6,33,59,23,Healthy
+Tomato,Clay,7.0,25,91,166,Late Blight
+Potato,Sandy,7.0,19,64,77,Healthy
+Pepper,Clay,6.8,30,82,29,Bacterial Spot
+Pepper,Loamy,6.7,31,64,124,Healthy
+Potato,Loamy,6.9,33,56,45,Healthy
+Pepper,Clay,7.1,18,91,72,Bacterial Spot
+Potato,Sandy,6.2,29,66,94,Healthy
+Potato,Sandy,6.8,28,88,141,Late Blight
+Tomato,Sandy,7.1,35,78,51,Early Blight
+Pepper,Loamy,5.8,33,57,59,Healthy
+Tomato,Loamy,7.1,21,58,83,Healthy
+Potato,Sandy,7.1,28,61,116,Healthy
+Pepper,Clay,5.8,24,79,106,Bacterial Spot
+Pepper,Sandy,5.9,34,72,106,Bacterial Spot
+Potato,Loamy,6.7,31,86,63,Early Blight
+Tomato,Loamy,5.8,31,91,99,Early Blight
+Pepper,Loamy,6.9,30,70,177,Healthy
+Tomato,Clay,6.3,33,94,79,Early Blight
+Potato,Sandy,5.5,30,63,15,Healthy
+Potato,Clay,5.6,26,63,35,Healthy
+Potato,Sandy,6.2,30,78,173,Early Blight
+Potato,Loamy,6.5,24,81,162,Late Blight
+Tomato,Sandy,6.8,27,91,68,Early Blight
+Pepper,Loamy,7.2,33,76,132,Bacterial Spot
+Pepper,Loamy,6.4,29,86,22,Bacterial Spot
+Pepper,Sandy,6.1,22,83,47,Bacterial Spot
+Tomato,Clay,5.7,31,93,74,Early Blight
+Pepper,Sandy,5.6,20,62,39,Healthy
+Tomato,Sandy,6.8,26,70,27,Healthy
+Potato,Loamy,6.7,26,84,35,Early Blight
+Potato,Sandy,6.9,32,95,131,Late Blight
+Tomato,Loamy,6.3,29,66,90,Healthy
+Potato,Loamy,6.5,28,70,49,Healthy
+Potato,Clay,5.9,24,71,58,Early Blight
+Potato,Clay,5.6,31,86,127,Late Blight
+Tomato,Loamy,7.1,31,82,142,Late Blight
+Potato,Clay,6.1,21,80,92,Early Blight
+Tomato,Clay,7.0,29,76,133,Early Blight
+Pepper,Clay,5.9,20,92,62,Bacterial Spot
+Tomato,Loamy,6.3,24,81,135,Late Blight
+Pepper,Sandy,7.0,27,90,12,Bacterial Spot
+Tomato,Loamy,6.9,20,73,126,Early Blight
+Pepper,Sandy,7.1,21,55,136,Healthy
+Potato,Loamy,6.6,24,72,33,Early Blight
+Potato,Sandy,6.6,22,60,161,Healthy
+Tomato,Clay,6.9,26,70,73,Healthy
+Potato,Loamy,7.2,23,69,158,Healthy
+Potato,Clay,6.9,31,66,171,Healthy
+Potato,Sandy,6.4,19,95,111,Late Blight
+Pepper,Clay,6.5,34,94,165,Bacterial Leaf Spot
+Tomato,Loamy,6.2,24,76,65,Early Blight
+Tomato,Sandy,6.0,18,92,67,Early Blight
+Potato,Loamy,7.1,28,73,165,Early Blight
+Pepper,Clay,6.8,27,58,53,Healthy
+Tomato,Sandy,6.1,18,72,17,Early Blight
+Pepper,Loamy,6.8,32,59,25,Healthy
+Potato,Loamy,5.9,26,77,126,Early Blight
+Pepper,Loamy,5.9,19,61,162,Healthy
+Potato,Clay,6.9,23,67,38,Healthy
+Tomato,Loamy,5.8,19,76,89,Early Blight
+Potato,Loamy,6.6,34,74,25,Early Blight
+Pepper,Clay,6.9,19,95,47,Bacterial Spot
+Pepper,Loamy,7.1,26,61,47,Healthy
+Tomato,Sandy,6.2,33,55,47,Healthy
+Tomato,Loamy,6.0,24,69,121,Healthy
+Tomato,Sandy,5.5,24,65,84,Healthy
+Tomato,Sandy,6.2,32,61,160,Healthy
+Pepper,Loamy,6.8,24,91,56,Bacterial Spot
+Potato,Sandy,6.0,23,56,130,Healthy
+Tomato,Clay,5.7,24,90,117,Late Blight
+Potato,Clay,6.4,21,63,66,Healthy
+Pepper,Loamy,5.6,25,88,108,Bacterial Leaf Spot
+Tomato,Loamy,6.1,27,80,101,Early Blight
+Potato,Loamy,6.8,33,62,85,Healthy
+Potato,Sandy,6.1,27,85,142,Late Blight
+Potato,Clay,5.9,25,63,78,Healthy
+Tomato,Clay,5.6,26,60,21,Healthy
+Tomato,Clay,7.0,18,56,75,Healthy
+Pepper,Loamy,7.1,27,87,72,Bacterial Spot
+Pepper,Sandy,6.4,33,91,33,Bacterial Spot
+Tomato,Sandy,6.1,19,88,116,Late Blight
+Pepper,Loamy,6.6,19,72,141,Bacterial Spot
+Pepper,Sandy,6.4,32,59,150,Healthy
+Potato,Loamy,6.3,20,59,58,Healthy
+Pepper,Sandy,6.2,24,77,40,Bacterial Spot
+Pepper,Loamy,5.8,20,55,22,Healthy
+Potato,Sandy,6.9,24,74,62,Early Blight
+Pepper,Loamy,6.4,33,76,141,Bacterial Spot
+Tomato,Loamy,7.0,19,82,36,Early Blight
+Tomato,Sandy,7.1,32,59,88,Healthy
+Potato,Loamy,5.9,35,83,179,Late Blight
+Pepper,Loamy,6.7,27,56,48,Healthy
+Tomato,Clay,6.2,34,55,14,Healthy
+Pepper,Sandy,7.0,30,77,112,Bacterial Spot
+Pepper,Loamy,6.8,23,88,48,Bacterial Spot
+Pepper,Loamy,6.1,21,64,49,Healthy
+Tomato,Sandy,5.6,33,80,104,Early Blight
+Tomato,Sandy,6.3,33,63,77,Healthy
+Tomato,Sandy,5.6,28,85,103,Late Blight
+Tomato,Clay,5.8,27,59,139,Healthy
+Tomato,Sandy,6.6,28,57,98,Healthy
+Pepper,Sandy,6.9,32,92,81,Bacterial Spot
+Potato,Loamy,5.9,19,70,14,Healthy
+Tomato,Loamy,6.4,20,80,12,Early Blight
+Potato,Clay,7.1,26,91,121,Late Blight
+Potato,Sandy,5.7,28,60,130,Healthy
+Pepper,Sandy,7.2,27,60,38,Healthy
+Pepper,Sandy,6.6,34,93,137,Bacterial Leaf Spot
+Tomato,Clay,6.3,28,71,47,Early Blight
+Pepper,Clay,7.2,25,55,65,Healthy
+Potato,Loamy,5.6,20,71,155,Early Blight
+Potato,Sandy,6.3,23,87,136,Late Blight
+Tomato,Loamy,5.6,19,63,135,Healthy
+Pepper,Clay,5.5,31,93,125,Bacterial Leaf Spot
+Potato,Clay,5.8,30,71,65,Early Blight
+Tomato,Loamy,6.0,25,65,80,Healthy
+Pepper,Sandy,5.6,29,61,78,Healthy
+Pepper,Loamy,6.5,30,78,24,Bacterial Spot
+Pepper,Loamy,5.7,29,55,159,Healthy
+Potato,Clay,5.8,26,81,18,Early Blight
+Potato,Loamy,7.0,24,89,162,Late Blight
+Potato,Loamy,6.1,31,89,110,Late Blight
+Pepper,Clay,5.9,34,70,141,Healthy
+Potato,Sandy,6.7,22,76,105,Early Blight
+Tomato,Sandy,6.5,20,92,160,Late Blight
+Tomato,Clay,6.7,32,59,71,Healthy
+Tomato,Clay,7.1,26,76,10,Early Blight
+Pepper,Sandy,5.7,19,80,11,Bacterial Spot
+Pepper,Clay,6.0,32,84,175,Bacterial Leaf Spot
+Pepper,Clay,6.5,20,88,89,Bacterial Spot
+Potato,Clay,5.6,27,89,67,Early Blight
+Potato,Sandy,6.4,25,83,113,Late Blight
+Tomato,Loamy,6.1,31,65,54,Healthy
+Tomato,Clay,6.4,29,74,119,Early Blight
+Tomato,Clay,5.6,27,82,43,Early Blight
+Potato,Loamy,5.9,30,86,116,Late Blight
+Tomato,Clay,5.6,18,93,136,Late Blight
+Tomato,Sandy,5.6,26,58,174,Healthy
+Pepper,Loamy,6.7,22,91,100,Bacterial Spot
+Pepper,Loamy,7.2,19,60,94,Healthy
+Tomato,Loamy,6.8,31,86,146,Late Blight
+Pepper,Clay,5.8,25,72,76,Bacterial Spot
+Pepper,Clay,6.9,31,79,37,Bacterial Spot
+Potato,Loamy,6.6,23,79,26,Early Blight
+Tomato,Loamy,6.9,20,77,132,Early Blight
+Potato,Loamy,6.5,25,75,113,Early Blight
+Potato,Sandy,6.1,26,77,151,Early Blight
+Tomato,Clay,6.3,30,85,136,Late Blight
+Pepper,Loamy,5.9,27,95,153,Bacterial Leaf Spot
+Pepper,Loamy,5.8,35,91,63,Bacterial Spot
+Pepper,Loamy,6.1,28,78,10,Bacterial Spot
+Potato,Loamy,6.3,31,59,30,Healthy
+Potato,Clay,6.7,23,57,175,Healthy
+Tomato,Clay,6.6,20,71,33,Early Blight
+Pepper,Loamy,6.5,27,66,37,Healthy
+Potato,Loamy,6.4,32,86,110,Late Blight
+Tomato,Loamy,5.7,28,73,98,Early Blight
+Potato,Loamy,6.6,25,76,44,Early Blight
+Potato,Clay,6.6,34,75,150,Early Blight
+Potato,Loamy,6.5,18,62,110,Healthy
+Potato,Sandy,6.5,21,91,158,Late Blight
+Pepper,Sandy,6.6,24,77,89,Bacterial Spot
+Potato,Sandy,5.6,23,62,79,Healthy
+Potato,Clay,6.0,30,58,14,Healthy
+Pepper,Sandy,5.7,29,88,60,Bacterial Spot
+Tomato,Loamy,7.2,34,86,28,Early Blight
+Potato,Clay,5.6,19,77,46,Early Blight
+Tomato,Sandy,6.7,23,70,48,Healthy
+Tomato,Loamy,5.9,29,81,16,Early Blight
+Potato,Clay,5.9,32,95,122,Late Blight
+Pepper,Clay,6.2,23,61,44,Healthy
+Pepper,Clay,6.2,27,88,139,Bacterial Leaf Spot
+Tomato,Clay,6.1,32,86,94,Early Blight
+Tomato,Loamy,6.8,27,82,62,Early Blight
+Tomato,Sandy,5.9,31,94,95,Early Blight
+Pepper,Sandy,6.1,19,78,12,Bacterial Spot
+Potato,Loamy,5.8,31,78,134,Early Blight
+Tomato,Sandy,5.7,20,63,159,Healthy
+Pepper,Clay,6.4,22,88,11,Bacterial Spot
+Tomato,Sandy,5.9,25,87,18,Early Blight
+Pepper,Sandy,5.9,21,92,157,Bacterial Leaf Spot
+Tomato,Clay,7.0,35,79,101,Early Blight
+Potato,Clay,6.7,32,65,48,Healthy
+Tomato,Clay,5.6,25,65,146,Healthy
+Tomato,Sandy,5.6,29,79,68,Early Blight
+Pepper,Loamy,6.6,23,81,75,Bacterial Spot
+Potato,Clay,6.0,27,82,78,Early Blight
+Tomato,Sandy,6.6,31,70,105,Healthy
+Tomato,Clay,6.3,30,68,19,Healthy
+Tomato,Clay,6.8,32,85,141,Late Blight
+Tomato,Clay,7.1,23,93,90,Early Blight
+Pepper,Sandy,5.6,27,58,83,Healthy
+Pepper,Clay,7.2,20,95,63,Bacterial Spot
+Tomato,Loamy,5.6,29,69,16,Healthy
+Tomato,Sandy,7.0,35,89,119,Late Blight
+Pepper,Clay,6.4,19,66,103,Healthy
+Tomato,Loamy,5.6,30,76,112,Early Blight
+Tomato,Clay,6.2,27,66,162,Healthy
+Tomato,Clay,5.8,26,85,150,Late Blight
+Potato,Sandy,6.9,28,61,66,Healthy
+Potato,Clay,5.7,30,61,170,Healthy
+Tomato,Loamy,6.0,35,83,169,Late Blight
+Potato,Sandy,6.3,30,72,98,Early Blight
+Pepper,Sandy,6.0,22,74,47,Bacterial Spot
+Tomato,Loamy,7.2,19,61,88,Healthy
+Potato,Clay,5.8,23,94,119,Late Blight
+Tomato,Loamy,6.0,30,94,96,Early Blight
+Potato,Sandy,6.4,20,79,34,Early Blight
+Pepper,Sandy,6.2,23,81,20,Bacterial Spot
+Tomato,Loamy,6.7,22,85,62,Early Blight
+Potato,Clay,6.0,25,86,77,Early Blight
+Tomato,Sandy,6.8,33,71,107,Early Blight
+Pepper,Loamy,6.9,20,78,172,Bacterial Spot
+Pepper,Sandy,6.6,27,65,59,Healthy
+Pepper,Clay,5.8,29,84,38,Bacterial Spot
+Potato,Loamy,6.5,34,94,119,Late Blight
+Tomato,Clay,6.8,19,72,115,Early Blight
+Pepper,Loamy,7.0,30,65,82,Healthy
+Pepper,Clay,5.6,28,81,34,Bacterial Spot
+Pepper,Clay,6.7,32,58,32,Healthy
+Potato,Clay,6.8,18,83,62,Early Blight
+Potato,Loamy,6.7,33,59,92,Healthy
+Tomato,Loamy,5.6,26,83,72,Early Blight
+Pepper,Sandy,6.6,35,64,41,Healthy
+Potato,Clay,7.1,21,88,145,Late Blight
+Tomato,Clay,6.9,30,65,25,Healthy
+Potato,Loamy,5.6,32,83,91,Early Blight
+Tomato,Loamy,7.2,35,89,103,Late Blight
+Pepper,Clay,5.8,34,84,37,Bacterial Spot
+Tomato,Sandy,6.9,34,74,119,Early Blight
+Tomato,Loamy,5.8,20,84,18,Early Blight
+Pepper,Loamy,5.6,24,72,15,Bacterial Spot
+Tomato,Clay,7.0,35,71,23,Early Blight
+Tomato,Clay,6.4,33,75,118,Early Blight
+Tomato,Loamy,6.1,24,56,24,Healthy
+Potato,Sandy,6.3,34,66,105,Healthy
+Tomato,Sandy,6.5,24,89,32,Early Blight
+Potato,Loamy,6.3,28,63,150,Healthy
+Potato,Clay,6.0,23,71,168,Early Blight
+Pepper,Sandy,6.1,29,95,112,Bacterial Leaf Spot
+Pepper,Loamy,6.2,20,85,178,Bacterial Leaf Spot
+Tomato,Clay,7.0,28,93,166,Late Blight
+Pepper,Loamy,6.0,20,72,70,Bacterial Spot
+Pepper,Sandy,7.1,27,73,148,Bacterial Spot
+Tomato,Sandy,5.5,19,74,66,Early Blight
+Tomato,Clay,6.5,30,77,30,Early Blight
+Potato,Clay,6.5,30,87,40,Early Blight
+Tomato,Sandy,6.3,22,93,32,Early Blight
+Tomato,Sandy,6.0,31,58,162,Healthy
+Potato,Clay,7.1,28,88,100,Early Blight
+Potato,Clay,6.9,28,65,151,Healthy
+Tomato,Clay,6.1,26,74,35,Early Blight
+Pepper,Clay,6.0,29,87,129,Bacterial Leaf Spot
+Tomato,Loamy,5.8,18,77,135,Early Blight
+Tomato,Sandy,6.3,33,64,47,Healthy
+Potato,Clay,6.5,21,68,20,Healthy
+Potato,Loamy,5.5,32,89,42,Early Blight
+Pepper,Sandy,5.7,19,55,128,Healthy
+Potato,Loamy,6.2,27,63,53,Healthy
+Pepper,Clay,6.6,31,81,49,Bacterial Spot
+Tomato,Clay,5.8,35,56,157,Healthy
+Pepper,Sandy,6.4,26,83,114,Bacterial Leaf Spot
+Potato,Clay,7.1,27,87,109,Late Blight
+Potato,Clay,6.2,34,92,131,Late Blight
+Potato,Sandy,6.8,31,56,150,Healthy
+Potato,Loamy,7.1,35,92,11,Early Blight
+Tomato,Loamy,6.7,25,81,77,Early Blight
+Potato,Loamy,5.9,25,63,32,Healthy
+Pepper,Clay,7.2,32,84,41,Bacterial Spot
+Potato,Sandy,5.7,25,86,111,Late Blight
+Tomato,Clay,6.1,27,71,144,Early Blight
+Pepper,Sandy,6.1,18,57,171,Healthy
+Tomato,Clay,7.1,31,67,64,Healthy
+Tomato,Clay,7.1,25,62,133,Healthy
+Potato,Loamy,6.3,31,79,102,Early Blight
+Potato,Clay,6.8,20,77,21,Early Blight
+Pepper,Clay,5.9,25,79,17,Bacterial Spot
+Pepper,Clay,6.1,30,78,103,Bacterial Spot
+Potato,Loamy,6.5,23,57,110,Healthy
+Tomato,Loamy,6.6,27,70,67,Healthy
+Pepper,Loamy,6.3,24,73,97,Bacterial Spot
+Pepper,Clay,6.4,35,79,141,Bacterial Spot
+Pepper,Clay,6.8,24,89,94,Bacterial Spot
+Tomato,Sandy,7.0,32,62,142,Healthy
+Potato,Clay,5.9,26,76,135,Early Blight
+Tomato,Loamy,6.8,26,63,70,Healthy
+Tomato,Clay,6.0,33,67,75,Healthy
+Pepper,Sandy,5.8,31,67,154,Healthy
+Tomato,Sandy,6.7,20,60,158,Healthy
+Pepper,Sandy,6.5,23,90,42,Bacterial Spot
+Potato,Loamy,5.8,24,94,38,Early Blight
+Tomato,Sandy,6.8,27,65,34,Healthy
+Potato,Sandy,7.1,31,79,166,Early Blight
+Pepper,Clay,6.2,35,70,96,Healthy
+Tomato,Sandy,6.8,34,62,155,Healthy
+Tomato,Loamy,6.2,27,94,58,Early Blight
+Tomato,Clay,5.7,23,58,93,Healthy
+Potato,Clay,7.0,25,63,76,Healthy
+Potato,Sandy,5.7,21,82,123,Late Blight
+Pepper,Clay,6.9,19,75,10,Bacterial Spot
+Tomato,Clay,6.8,32,69,86,Healthy
+Potato,Sandy,6.9,33,78,72,Early Blight
+Potato,Clay,5.7,33,68,114,Healthy
+Tomato,Sandy,6.2,30,73,53,Early Blight
+Potato,Sandy,7.0,32,76,59,Early Blight
+Potato,Loamy,6.8,34,83,94,Early Blight
+Tomato,Sandy,6.1,30,67,90,Healthy
+Pepper,Sandy,6.5,21,87,18,Bacterial Spot
+Potato,Sandy,6.0,19,90,123,Late Blight
+Tomato,Clay,6.0,27,60,87,Healthy
+Potato,Sandy,6.1,19,58,123,Healthy
+Tomato,Sandy,5.6,31,90,115,Late Blight
+Potato,Loamy,7.1,19,65,19,Healthy
+Potato,Clay,6.4,32,72,41,Early Blight
+Pepper,Sandy,7.1,31,56,51,Healthy
+Pepper,Sandy,6.6,35,67,157,Healthy
+Potato,Loamy,6.4,22,86,68,Early Blight
+Pepper,Loamy,5.7,19,58,137,Healthy
+Potato,Sandy,5.5,32,87,168,Late Blight
+Potato,Sandy,6.8,18,78,19,Early Blight
+Pepper,Loamy,6.2,24,75,40,Bacterial Spot
+Pepper,Sandy,6.2,19,71,63,Bacterial Spot
+Pepper,Loamy,6.1,26,89,21,Bacterial Spot
+Potato,Clay,6.6,34,67,152,Healthy
+Tomato,Clay,6.6,19,84,116,Late Blight
+Potato,Loamy,6.1,19,64,59,Healthy
+Pepper,Clay,6.4,23,86,67,Bacterial Spot
+Tomato,Loamy,6.1,25,82,72,Early Blight
+Potato,Loamy,6.0,30,90,164,Late Blight
+Tomato,Clay,6.2,34,65,65,Healthy
+Pepper,Sandy,5.9,24,72,80,Bacterial Spot
+Tomato,Sandy,6.4,32,90,99,Early Blight
+Potato,Sandy,6.5,20,91,125,Late Blight
+Tomato,Loamy,6.9,24,95,39,Early Blight
+Potato,Loamy,5.5,20,55,160,Healthy
+Tomato,Sandy,6.1,32,65,106,Healthy
+Tomato,Sandy,7.0,19,69,110,Healthy
+Pepper,Loamy,6.4,18,77,56,Bacterial Spot
+Tomato,Clay,5.9,20,72,23,Early Blight
+Tomato,Sandy,6.3,28,91,69,Early Blight
+Potato,Sandy,6.1,27,89,146,Late Blight
+Potato,Loamy,6.5,24,65,88,Healthy
+Pepper,Sandy,5.8,27,80,32,Bacterial Spot
+Potato,Loamy,5.8,20,88,113,Late Blight
+Potato,Loamy,6.0,35,63,170,Healthy
+Tomato,Loamy,6.0,32,80,11,Early Blight
+Pepper,Loamy,7.1,27,83,117,Bacterial Leaf Spot
+Pepper,Clay,7.1,21,63,62,Healthy
+Potato,Loamy,6.1,31,77,47,Early Blight
+Tomato,Sandy,5.6,19,67,22,Healthy
+Pepper,Clay,7.1,30,57,92,Healthy
+Tomato,Clay,6.1,24,67,171,Healthy
+Pepper,Sandy,7.1,26,66,66,Healthy
+Tomato,Loamy,6.4,34,84,178,Late Blight
+Pepper,Clay,6.8,31,94,131,Bacterial Leaf Spot
+Potato,Sandy,6.6,25,65,20,Healthy
+Pepper,Clay,6.4,30,88,161,Bacterial Leaf Spot
+Pepper,Sandy,7.1,18,61,27,Healthy
+Tomato,Clay,6.1,18,68,136,Healthy
+Potato,Loamy,6.6,33,88,17,Early Blight
+Pepper,Loamy,6.2,26,95,92,Bacterial Spot
+Potato,Clay,6.4,25,90,140,Late Blight
+Pepper,Sandy,6.7,18,77,167,Bacterial Spot
+Potato,Clay,7.1,27,72,26,Early Blight
+Potato,Clay,6.7,30,74,59,Early Blight
+Pepper,Clay,5.8,28,92,161,Bacterial Leaf Spot
+Pepper,Clay,7.1,18,63,177,Healthy
+Potato,Clay,7.0,34,95,131,Late Blight
+Pepper,Clay,7.1,24,55,95,Healthy
+Potato,Clay,6.5,34,55,86,Healthy
+Tomato,Sandy,7.1,25,91,153,Late Blight
+Potato,Loamy,6.0,28,68,142,Healthy
+Pepper,Sandy,5.8,33,85,161,Bacterial Leaf Spot
+Tomato,Clay,6.0,35,82,134,Late Blight
+Potato,Clay,6.7,25,90,140,Late Blight
+Tomato,Loamy,6.9,33,81,27,Early Blight
+Potato,Loamy,6.2,23,58,21,Healthy
+Pepper,Sandy,6.7,18,78,132,Bacterial Spot
+Tomato,Loamy,6.4,19,60,31,Healthy
+Potato,Clay,6.9,19,57,170,Healthy
+Pepper,Sandy,5.7,22,60,41,Healthy
+Potato,Sandy,6.8,26,65,31,Healthy
+Pepper,Sandy,7.2,27,93,73,Bacterial Spot
+Pepper,Loamy,5.8,22,58,62,Healthy
+Potato,Loamy,5.6,31,73,104,Early Blight
+Potato,Loamy,6.6,26,60,47,Healthy
+Tomato,Clay,6.4,34,78,135,Early Blight
+Potato,Sandy,5.7,20,72,173,Early Blight
+Potato,Loamy,6.4,26,73,151,Early Blight
+Pepper,Sandy,5.6,26,55,77,Healthy
+Pepper,Sandy,5.7,32,61,27,Healthy
+Potato,Loamy,6.0,33,82,88,Early Blight
+Tomato,Clay,6.8,27,92,173,Late Blight
+Potato,Sandy,6.6,31,69,120,Healthy
+Tomato,Sandy,6.8,27,75,153,Early Blight
+Potato,Loamy,6.3,25,60,91,Healthy
+Tomato,Loamy,6.0,28,67,111,Healthy
+Tomato,Sandy,6.5,26,87,14,Early Blight
+Potato,Loamy,6.5,28,82,76,Early Blight
+Tomato,Sandy,6.5,20,83,30,Early Blight
+Potato,Loamy,6.4,31,68,12,Healthy
+Pepper,Clay,6.8,21,70,18,Healthy
+Pepper,Loamy,6.0,26,85,59,Bacterial Spot
+Pepper,Clay,7.0,30,78,161,Bacterial Spot
+Potato,Sandy,7.1,26,75,36,Early Blight
+Tomato,Clay,5.6,31,65,160,Healthy
+Tomato,Sandy,5.5,20,59,53,Healthy
+Tomato,Sandy,6.7,32,57,81,Healthy
+Tomato,Loamy,5.7,18,88,111,Late Blight
+Potato,Sandy,6.7,33,83,28,Early Blight
+Potato,Sandy,7.0,34,55,129,Healthy
+Tomato,Sandy,6.1,20,79,159,Early Blight
+Tomato,Sandy,5.7,25,76,173,Early Blight
+Tomato,Sandy,6.7,24,70,71,Healthy
+Pepper,Loamy,6.7,18,74,82,Bacterial Spot
+Potato,Sandy,5.7,25,78,139,Early Blight
+Pepper,Clay,6.2,25,82,67,Bacterial Spot
+Pepper,Sandy,5.6,34,65,111,Healthy
+Potato,Clay,5.6,31,88,144,Late Blight
+Tomato,Loamy,6.7,30,76,122,Early Blight
+Tomato,Sandy,5.8,20,94,121,Late Blight
+Tomato,Loamy,6.1,23,93,97,Early Blight
+Potato,Loamy,5.6,29,68,169,Healthy
+Pepper,Loamy,6.6,31,56,15,Healthy
+Pepper,Clay,5.5,25,78,39,Bacterial Spot
+Tomato,Sandy,5.9,33,80,84,Early Blight
+Potato,Sandy,7.1,31,71,122,Early Blight
+Pepper,Sandy,6.9,18,84,19,Bacterial Spot
+Tomato,Clay,6.4,29,75,120,Early Blight
+Potato,Sandy,5.7,23,58,140,Healthy
+Potato,Sandy,6.8,31,59,85,Healthy
+Tomato,Sandy,5.9,30,95,76,Early Blight
+Potato,Clay,6.1,23,85,65,Early Blight
+Tomato,Loamy,6.1,23,61,131,Healthy
+Tomato,Clay,6.6,22,70,57,Healthy
+Potato,Sandy,6.1,34,64,125,Healthy
+Potato,Clay,7.1,18,61,35,Healthy
+Potato,Clay,5.6,22,84,34,Early Blight
+Potato,Loamy,6.7,29,87,19,Early Blight
+Pepper,Loamy,5.9,23,65,142,Healthy
+Potato,Clay,5.5,19,58,56,Healthy
+Potato,Sandy,5.7,33,93,20,Early Blight
+Tomato,Sandy,6.0,23,84,148,Late Blight
+Tomato,Sandy,6.3,35,73,153,Early Blight
+Tomato,Clay,6.2,21,61,111,Healthy
+Tomato,Clay,6.9,35,93,144,Late Blight
+Tomato,Loamy,6.9,21,89,33,Early Blight
+Pepper,Sandy,6.5,33,93,105,Bacterial Leaf Spot
+Pepper,Sandy,7.1,25,62,174,Healthy
+Tomato,Sandy,7.1,32,94,138,Late Blight
+Potato,Sandy,6.3,31,66,13,Healthy
+Tomato,Sandy,5.7,18,88,72,Early Blight
+Tomato,Sandy,6.4,29,80,59,Early Blight
+Tomato,Sandy,6.1,22,79,74,Early Blight
+Potato,Loamy,6.5,32,60,18,Healthy
+Potato,Sandy,6.7,21,83,80,Early Blight
+Pepper,Sandy,7.1,25,55,110,Healthy
+Tomato,Sandy,7.0,30,86,20,Early Blight
+Tomato,Sandy,5.8,26,86,82,Early Blight
+Pepper,Sandy,6.9,28,91,66,Bacterial Spot
+Pepper,Clay,6.5,24,83,62,Bacterial Spot
+Tomato,Clay,5.7,30,60,164,Healthy
+Tomato,Clay,6.6,18,83,78,Early Blight
+Tomato,Loamy,7.0,28,89,134,Late Blight
+Potato,Sandy,6.1,18,72,12,Early Blight
+Tomato,Loamy,5.7,20,92,51,Early Blight
+Tomato,Clay,7.0,21,77,156,Early Blight
+Potato,Clay,7.0,25,95,82,Early Blight
+Potato,Loamy,6.6,25,67,43,Healthy
+Pepper,Sandy,6.6,22,68,49,Healthy
+Tomato,Loamy,6.6,18,75,162,Early Blight
+Pepper,Sandy,7.0,28,93,54,Bacterial Spot
+Tomato,Loamy,6.7,27,80,115,Early Blight
+Tomato,Clay,6.7,22,57,33,Healthy
+Tomato,Sandy,5.8,27,64,86,Healthy
+Potato,Sandy,7.0,27,86,131,Late Blight
+Tomato,Loamy,6.8,31,83,168,Late Blight
+Pepper,Sandy,7.1,18,95,159,Bacterial Leaf Spot
+Potato,Loamy,6.9,23,64,155,Healthy
+Tomato,Clay,6.0,28,93,175,Late Blight
+Potato,Loamy,5.6,23,76,22,Early Blight
+Potato,Clay,6.7,18,84,56,Early Blight
+Potato,Sandy,5.5,30,80,94,Early Blight
+Pepper,Loamy,6.5,26,75,53,Bacterial Spot
+Tomato,Clay,5.6,24,78,53,Early Blight
+Pepper,Loamy,5.5,19,84,64,Bacterial Spot
+Potato,Loamy,7.0,23,72,24,Early Blight
+Pepper,Clay,6.3,23,61,30,Healthy
+Tomato,Loamy,6.2,33,80,147,Early Blight
+Potato,Sandy,6.4,23,71,28,Early Blight
+Pepper,Sandy,6.5,19,94,63,Bacterial Spot
+Tomato,Sandy,6.8,33,67,141,Healthy
+Pepper,Sandy,7.0,23,72,144,Bacterial Spot
+Potato,Clay,5.6,18,76,86,Early Blight
+Potato,Loamy,6.8,35,63,75,Healthy
+Potato,Sandy,7.1,32,66,137,Healthy
+Potato,Clay,6.1,24,65,106,Healthy
+Tomato,Clay,7.0,23,95,116,Late Blight
+Potato,Sandy,6.0,18,71,120,Early Blight
+Tomato,Loamy,6.5,24,57,48,Healthy
+Pepper,Loamy,7.1,28,88,67,Bacterial Spot
+Potato,Clay,6.9,33,76,119,Early Blight
+Tomato,Sandy,6.0,35,83,128,Late Blight
+Tomato,Clay,6.7,20,92,164,Late Blight
+Tomato,Sandy,7.0,22,60,131,Healthy
+Tomato,Loamy,6.8,19,67,164,Healthy
+Potato,Clay,5.9,26,75,73,Early Blight
+Potato,Loamy,6.7,34,78,168,Early Blight
+Pepper,Clay,5.9,33,95,110,Bacterial Leaf Spot
+Tomato,Sandy,6.4,30,57,162,Healthy
+Tomato,Sandy,7.2,35,95,85,Early Blight
+Tomato,Loamy,6.6,18,82,38,Early Blight
+Potato,Clay,5.9,20,68,117,Healthy
+Pepper,Loamy,6.5,33,88,94,Bacterial Spot
+Tomato,Clay,6.5,27,63,24,Healthy
+Pepper,Loamy,6.8,18,79,83,Bacterial Spot
+Pepper,Sandy,6.8,25,66,138,Healthy
+Pepper,Loamy,5.8,34,60,108,Healthy
+Tomato,Clay,6.6,31,90,148,Late Blight
+Tomato,Sandy,6.3,26,59,107,Healthy
+Tomato,Clay,6.7,21,60,116,Healthy
+Tomato,Sandy,5.9,25,92,57,Early Blight
+Potato,Loamy,6.3,30,81,151,Late Blight
+Potato,Loamy,5.8,34,93,73,Early Blight
+Pepper,Clay,7.1,18,84,104,Bacterial Leaf Spot
+Tomato,Clay,7.1,31,79,173,Early Blight
+Pepper,Sandy,6.7,26,68,43,Healthy
+Potato,Sandy,5.6,22,92,99,Early Blight
+Potato,Loamy,6.4,32,75,35,Early Blight
+Potato,Clay,7.2,24,67,136,Healthy
+Pepper,Sandy,5.8,35,69,101,Healthy
+Potato,Clay,6.4,22,63,21,Healthy
+Pepper,Clay,5.8,19,90,89,Bacterial Spot
+Pepper,Clay,6.6,28,81,26,Bacterial Spot
+Pepper,Sandy,6.5,28,66,180,Healthy
+Pepper,Sandy,5.8,33,94,108,Bacterial Leaf Spot
+Tomato,Loamy,6.0,26,93,59,Early Blight
+Potato,Loamy,6.2,25,74,43,Early Blight
+Pepper,Sandy,6.9,27,87,103,Bacterial Leaf Spot
+Potato,Loamy,6.5,27,69,84,Healthy
+Potato,Clay,6.1,19,85,11,Early Blight
+Tomato,Loamy,6.4,23,69,20,Healthy
+Pepper,Loamy,7.2,32,60,112,Healthy
+Potato,Loamy,6.9,19,82,74,Early Blight
+Potato,Loamy,7.1,28,95,136,Late Blight
+Potato,Clay,6.4,31,84,73,Early Blight
+Tomato,Loamy,6.4,20,83,146,Late Blight
+Potato,Clay,6.8,18,79,20,Early Blight
+Pepper,Sandy,5.5,24,93,138,Bacterial Leaf Spot
+Pepper,Sandy,7.1,33,57,78,Healthy
+Pepper,Clay,6.4,33,83,105,Bacterial Leaf Spot
+Pepper,Loamy,6.2,34,68,66,Healthy
+Tomato,Clay,5.8,34,93,141,Late Blight
+Tomato,Sandy,6.7,20,61,89,Healthy
+Tomato,Sandy,6.4,24,70,56,Healthy
+Pepper,Sandy,5.7,18,63,131,Healthy
+Pepper,Clay,7.2,31,79,179,Bacterial Spot
+Pepper,Sandy,7.0,21,91,129,Bacterial Leaf Spot
+Pepper,Loamy,6.5,32,95,25,Bacterial Spot
+Potato,Loamy,7.0,28,85,146,Late Blight
+Potato,Sandy,6.6,20,71,58,Early Blight
+Pepper,Clay,6.9,33,93,83,Bacterial Spot
+Tomato,Sandy,6.6,28,75,169,Early Blight
+Tomato,Loamy,7.1,26,58,178,Healthy
+Potato,Clay,6.4,18,65,170,Healthy
+Potato,Loamy,5.7,29,73,90,Early Blight
+Tomato,Clay,6.8,26,57,172,Healthy
+Pepper,Clay,6.3,25,93,102,Bacterial Leaf Spot
+Pepper,Sandy,6.5,33,56,125,Healthy
+Potato,Loamy,6.2,30,84,140,Late Blight
+Tomato,Sandy,5.9,23,77,162,Early Blight
+Potato,Clay,6.0,18,55,139,Healthy
+Tomato,Clay,7.1,31,68,37,Healthy
+Tomato,Sandy,6.1,24,79,127,Early Blight
+Tomato,Loamy,5.6,26,89,68,Early Blight
+Pepper,Clay,6.1,34,90,106,Bacterial Leaf Spot
+Tomato,Sandy,6.7,32,80,83,Early Blight
+Pepper,Clay,5.6,24,70,71,Healthy
+Potato,Sandy,6.7,28,69,90,Healthy
+Potato,Clay,6.0,18,59,13,Healthy
+Tomato,Sandy,6.4,28,75,78,Early Blight
+Tomato,Clay,5.8,30,67,152,Healthy
+Potato,Sandy,5.6,28,81,87,Early Blight
+Tomato,Sandy,7.0,32,56,171,Healthy
+Pepper,Loamy,6.6,27,91,40,Bacterial Spot
+Tomato,Clay,5.8,25,55,70,Healthy
+Pepper,Clay,6.4,34,87,24,Bacterial Spot
+Tomato,Sandy,6.4,28,87,152,Late Blight
+Tomato,Clay,6.8,28,68,84,Healthy
+Tomato,Clay,5.7,32,56,107,Healthy
+Tomato,Loamy,6.3,20,87,139,Late Blight
+Tomato,Sandy,6.4,34,92,93,Early Blight
+Potato,Sandy,5.8,29,85,150,Late Blight
+Potato,Loamy,6.8,26,75,19,Early Blight
+Tomato,Clay,7.0,34,58,124,Healthy
+Potato,Clay,6.0,35,69,64,Healthy
+Potato,Loamy,6.5,33,81,57,Early Blight
+Tomato,Sandy,6.9,33,73,87,Early Blight
+Potato,Loamy,6.9,22,59,141,Healthy
+Tomato,Clay,7.1,34,87,178,Late Blight
+Potato,Loamy,7.0,19,79,43,Early Blight
+Potato,Loamy,5.7,21,94,122,Late Blight
+Pepper,Sandy,7.1,27,73,48,Bacterial Spot
+Tomato,Sandy,6.3,33,84,114,Late Blight
+Pepper,Sandy,7.2,35,90,24,Bacterial Spot
+Pepper,Loamy,5.7,30,74,42,Bacterial Spot
+Pepper,Clay,6.0,19,67,121,Healthy
+Potato,Sandy,6.3,21,78,64,Early Blight
+Potato,Clay,6.2,33,79,100,Early Blight
+Potato,Loamy,6.1,19,95,121,Late Blight
+Pepper,Loamy,6.5,29,90,125,Bacterial Leaf Spot
+Potato,Sandy,5.6,28,85,98,Early Blight
+Potato,Clay,5.7,30,66,24,Healthy
+Potato,Clay,5.8,29,61,135,Healthy
+Tomato,Clay,6.8,28,83,142,Late Blight
+Potato,Clay,6.7,35,57,104,Healthy
+Pepper,Sandy,7.1,18,68,114,Healthy
+Potato,Sandy,5.8,23,87,175,Late Blight
+Tomato,Loamy,6.5,33,58,139,Healthy
+Pepper,Loamy,6.3,30,78,167,Bacterial Spot
+Pepper,Sandy,6.4,25,81,32,Bacterial Spot
+Pepper,Sandy,6.8,23,80,39,Bacterial Spot
+Potato,Loamy,6.8,28,78,94,Early Blight
+Potato,Clay,7.0,35,66,74,Healthy
+Potato,Sandy,6.7,18,85,142,Late Blight
+Tomato,Loamy,6.5,26,94,152,Late Blight
+Pepper,Clay,6.3,27,73,55,Bacterial Spot
+Pepper,Loamy,7.1,27,71,19,Bacterial Spot
+Pepper,Sandy,7.0,30,58,74,Healthy
+Tomato,Clay,7.0,34,57,177,Healthy
+Potato,Sandy,7.1,28,59,112,Healthy
+Pepper,Clay,6.5,23,72,71,Bacterial Spot
+Potato,Sandy,6.4,26,85,155,Late Blight
+Pepper,Loamy,5.7,26,59,25,Healthy
+Pepper,Sandy,6.9,30,55,75,Healthy
+Tomato,Loamy,6.3,32,85,19,Early Blight
+Potato,Loamy,5.8,29,59,174,Healthy
+Potato,Clay,5.7,26,88,119,Late Blight
+Tomato,Sandy,5.7,19,81,68,Early Blight
+Pepper,Sandy,6.3,29,66,130,Healthy
+Tomato,Clay,6.7,30,88,130,Late Blight
+Tomato,Loamy,5.7,33,62,135,Healthy
+Potato,Sandy,6.5,19,81,105,Late Blight
+Tomato,Loamy,6.1,35,89,99,Early Blight
+Potato,Sandy,6.7,32,88,82,Early Blight
+Potato,Clay,7.1,34,80,171,Early Blight
+Tomato,Loamy,6.6,32,71,28,Early Blight
+Tomato,Sandy,6.2,19,69,36,Healthy
+Tomato,Clay,6.5,23,64,129,Healthy
+Potato,Clay,6.0,21,69,171,Healthy
+Tomato,Loamy,6.1,22,70,132,Healthy
+Tomato,Clay,6.2,22,65,44,Healthy
+Pepper,Sandy,6.2,33,75,115,Bacterial Spot
+Pepper,Sandy,7.1,35,56,12,Healthy
+Potato,Sandy,6.8,27,55,105,Healthy
+Tomato,Loamy,6.7,28,71,137,Early Blight
+Potato,Clay,7.2,18,72,109,Early Blight
+Pepper,Clay,6.0,19,91,54,Bacterial Spot
+Pepper,Sandy,6.7,28,78,86,Bacterial Spot
+Tomato,Sandy,6.9,32,71,127,Early Blight
+Pepper,Loamy,5.7,33,56,120,Healthy
+Pepper,Clay,6.4,29,73,28,Bacterial Spot
+Potato,Sandy,5.6,27,61,77,Healthy
+Tomato,Loamy,6.9,26,83,160,Late Blight
+Tomato,Loamy,6.0,24,57,33,Healthy
+Pepper,Sandy,5.7,23,70,43,Healthy
+Potato,Sandy,6.5,29,73,140,Early Blight
+Pepper,Clay,5.7,24,74,35,Bacterial Spot
+Pepper,Sandy,6.6,20,89,155,Bacterial Leaf Spot
+Potato,Loamy,6.2,35,82,92,Early Blight
+Potato,Sandy,6.4,20,83,162,Late Blight
+Tomato,Sandy,6.1,24,94,67,Early Blight
+Potato,Clay,6.4,32,63,19,Healthy
+Potato,Clay,6.7,22,95,178,Late Blight
+Potato,Sandy,5.9,30,58,82,Healthy
+Potato,Clay,5.6,25,76,25,Early Blight
+Pepper,Loamy,6.9,21,88,59,Bacterial Spot
+Tomato,Loamy,6.3,23,91,48,Early Blight
+Tomato,Sandy,6.7,20,90,72,Early Blight
+Potato,Sandy,6.6,33,69,105,Healthy
+Potato,Clay,6.6,20,89,133,Late Blight
+Pepper,Clay,6.1,31,95,20,Bacterial Spot
+Tomato,Loamy,5.8,33,91,146,Late Blight
+Tomato,Sandy,6.8,20,91,139,Late Blight
+Pepper,Loamy,6.6,22,58,48,Healthy
+Potato,Clay,6.8,32,57,179,Healthy
+Potato,Sandy,6.0,27,91,73,Early Blight
+Tomato,Loamy,5.7,25,74,16,Early Blight
+Potato,Loamy,6.7,26,68,162,Healthy
+Pepper,Loamy,6.6,20,74,172,Bacterial Spot
+Potato,Clay,5.7,19,56,40,Healthy
+Tomato,Clay,7.0,28,79,111,Early Blight
+Potato,Clay,6.7,30,79,68,Early Blight
+Potato,Sandy,7.0,31,61,173,Healthy
+Pepper,Sandy,6.3,30,95,17,Bacterial Spot
+Pepper,Loamy,6.7,35,87,138,Bacterial Leaf Spot
+Pepper,Sandy,6.8,29,70,30,Healthy
+Pepper,Clay,6.4,34,59,125,Healthy
+Pepper,Sandy,6.9,25,74,154,Bacterial Spot
+Potato,Loamy,5.6,18,64,118,Healthy
+Potato,Clay,6.3,26,82,109,Late Blight
+Potato,Loamy,5.7,31,90,91,Early Blight
+Pepper,Clay,7.0,31,84,13,Bacterial Spot
+Pepper,Clay,6.8,19,91,43,Bacterial Spot
+Potato,Clay,5.7,34,57,27,Healthy
+Potato,Sandy,6.4,20,89,60,Early Blight
+Tomato,Clay,6.3,25,86,79,Early Blight
+Tomato,Sandy,5.6,19,75,88,Early Blight
+Potato,Clay,6.0,32,72,55,Early Blight
+Tomato,Loamy,6.9,29,63,176,Healthy
+Potato,Clay,6.4,21,66,151,Healthy
+Pepper,Sandy,6.1,30,80,103,Bacterial Spot
+Potato,Sandy,6.3,28,60,10,Healthy
+Pepper,Sandy,5.8,30,80,107,Bacterial Spot
+Pepper,Clay,6.9,33,59,149,Healthy
+Pepper,Sandy,6.3,24,85,15,Bacterial Spot
+Potato,Sandy,6.2,27,85,35,Early Blight
+Potato,Sandy,6.7,25,63,96,Healthy
+Tomato,Loamy,6.6,18,61,105,Healthy
+Potato,Sandy,6.9,18,73,63,Early Blight
+Potato,Sandy,5.7,18,69,150,Healthy
+Potato,Clay,7.0,34,64,19,Healthy
+Potato,Clay,5.7,30,58,53,Healthy
+Pepper,Sandy,6.1,27,95,168,Bacterial Leaf Spot
+Potato,Clay,6.4,31,94,81,Early Blight
+Tomato,Clay,6.1,21,87,105,Late Blight

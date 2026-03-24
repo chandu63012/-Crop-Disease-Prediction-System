@@ -1,0 +1,281 @@
+import numpy as np
+import pandas as pd
+import random
+import matplotlib
+import matplotlib.pyplot as plt
+import seaborn as sns
+import plotly.graph_objects as go
+import plotly.express as px
+
+from IPython.core.interactiveshell import InteractiveShell
+InteractiveShell.ast_node_interactivity = 'all'
+
+df=pd.read_csv("/content/crop_disease_environment_large_dataset_3000.csv")
+df.head()
+# data explantions
+
+df.tail()
+
+# input of crop taken
+unique_crops = df['crop'].unique()
+unique_crops
+
+# finding the types disease
+disease=df['disease'].unique()
+disease
+
+df.shape
+
+#data cleaning and pre-processing
+df.isnull().sum()
+
+# find dupilactes
+df.duplicated().sum()
+
+df.describe()
+
+df.info()
+
+# Separate numerical data
+numerical_df = df.select_dtypes(include=['int64', 'float64'])
+print("Numerical Data (first 5 rows):")
+display(numerical_df.head())
+
+# Separate categorical data
+categorical_df = df.select_dtypes(include=['object', 'category'])
+print("Categorical Data (first 5 rows):")
+display(categorical_df.head())
+
+#Target Variable Analysis
+# count the varibles
+df['temperature'].value_counts().head()
+df['humidity'].value_counts().head()
+df['soil_ph'].value_counts().head()
+df['rainfall'].value_counts().head()
+
+#Exploratory Data Analysis
+
+# Columns to use
+plt.figure(figsize=(12,7))
+num_cols = ['temperature', 'rainfall', 'humidity', 'soil_ph']
+# Group by crop and calculate mean
+grouped = df.groupby('crop')[num_cols].mean()
+# Plot grouped bar chart
+grouped.plot(kind='bar')
+plt.xlabel('Crop')
+plt.ylabel('Average Value')
+plt.title('environmental conditions for each crop')
+plt.xticks(rotation=45)
+plt.show();
+
+
+# Grouped bar chart for Soil Type vs Disease counts
+plt.figure(figsize=(12, 7))
+sns.countplot(data=df, x='soil_type', hue='disease', palette='tab10')
+plt.title('Disease Counts by Soil Type')
+plt.xlabel('Soil Type')
+plt.ylabel('Count')
+plt.xticks(rotation=45)
+plt.legend(title='Disease')
+plt.tight_layout()
+plt.show()
+
+# Value counts of target variable
+df['disease'].value_counts(10,6)
+# Plot distribution
+plt.figure()
+sns.countplot(x='disease', data=df, hue='disease', palette='viridis', legend=False) # Updated to address FutureWarning
+plt.title("Distribution of Disease Status")
+plt.show()
+
+
+numerical_cols = df.select_dtypes(include=np.number).columns
+df[numerical_cols].hist(figsize=(12, 8))
+plt.tight_layout()
+plt.show()
+
+#Corelation Analysis
+plt.figure(figsize=(10, 6))
+sns.heatmap(df[numerical_cols].corr(), annot=True, cmap='coolwarm')
+plt.title("Feature Correlation Heatmap")
+plt.show()
+
+
+# Feature vs Target Analysis
+for col in numerical_cols:
+    if col != 'disease':
+        plt.figure()
+        sns.boxplot(x='disease', y=col, data=df, hue='disease', palette='viridis', legend=False)
+        plt.title(f"{col} vs Disease Status")
+        plt.show()
+
+#speraction x and # according to my data set y([x=futerus],[y=target])
+x=df.drop('disease',axis=1)
+y=df['disease']
+x
+
+y
+
+#ENCODING
+# converted data categorical data to numerical data
+from sklearn.preprocessing import OneHotEncoder
+encoder = OneHotEncoder(sparse_output=False)
+X = df.drop("disease", axis=1)# drop the target values
+X_encoded = pd.get_dummies(X, columns=["crop", "soil_type"])
+print(X_encoded.head().astype(int))
+
+# encoding the target variabels(label encoding)
+from sklearn.preprocessing import LabelEncoder
+le = LabelEncoder() # create line an instance of thr labelencoder class.
+y = df["disease"]
+y_encoded = le.fit_transform(y)# converting the  catericoal---- to--- numerical
+print(y_encoded[:10])
+
+# trainang and testing the data
+from sklearn.model_selection import train_test_split
+x_train,x_test,y_train,y_test=train_test_split(X_encoded,y_encoded,test_size=0.2,random_state=42)
+
+x_train.shape,x_test.shape,y_train.shape,y_test.shape
+
+# FuterScaling
+from sklearn.preprocessing import StandardScaler
+scaler = StandardScaler()
+
+x_train = scaler.fit_transform(x_train)# train the data for modelbulding
+X_test = scaler.transform(x_test)# test data only in transfromed
+
+
+from sklearn.tree import DecisionTreeClassifier
+
+# 1. Re-instantiate and train DecisionTreeClassifier
+model_dt = DecisionTreeClassifier(random_state=42)
+model_dt
+
+
+model_dt.fit(x_train, y_train)
+
+
+# make predction
+y_pred = model_dt.predict(x_test)
+y_pred
+
+
+#shiw the accurecy
+from sklearn.metrics import accuracy_score
+accuracy = accuracy_score(y_test, y_pred)
+accuracy
+
+#This helps understand why accuracy is low
+print("Classification Report:\n")
+print(classification_report(y_test, y_pred))
+
+#Improve Decision Tree (Hyperparameter Tuning)
+
+
+from sklearn.model_selection import GridSearchCV
+
+param_grid = {
+    'max_depth': [3, 5, 10, 20],
+    'min_samples_split': [2, 5, 10],
+    'min_samples_leaf': [1, 2, 4],
+    'criterion': ['gini', 'entropy']
+}
+
+#Apply Grid Search
+grid_search = GridSearchCV(
+    estimator=DecisionTreeClassifier(random_state=42),
+    param_grid=param_grid,
+    cv=5,
+    scoring='accuracy',
+    n_jobs=-1
+)
+
+grid_search.fit(x_train, y_train)
+
+# best parameters
+print("Best Parameters:", grid_search.best_params_)
+
+#Train Best Model
+best_dt = grid_search.best_estimator_
+
+y_pred_best = best_dt.predict(X_test)
+
+print("Improved Accuracy:", accuracy_score(y_test, y_pred_best))
+
+from sklearn.ensemble import RandomForestClassifier
+
+
+rf = RandomForestClassifier(random_state=42)
+rf
+
+rf.fit(x_train, y_train)
+rf
+
+y_pred_rf = rf.predict(X_test)
+y_pred_rf
+
+print("Random Forest Accuracy:", accuracy_score(y_test, y_pred_rf))
+
+
+
+
+
+#Logistic Regression
+from sklearn.linear_model import LogisticRegression
+
+
+lr = LogisticRegression(max_iter=1000)
+lr
+
+lr.fit(x_train, y_train)
+lr
+
+y_pred_lr = lr.predict(X_test)
+y_pred_lr
+
+print("Logistic Regression Accuracy:", accuracy_score(y_test, y_pred_lr))
+
+
+
+from xgboost import XGBClassifier
+
+
+xgb = XGBClassifier(use_label_encoder=False, eval_metric='mlogloss')
+
+
+xgb.fit(x_train, y_train)
+
+
+y_pred_xgb = xgb.predict(X_test)
+y_pred_xgb
+
+print("XGBoost Accuracy:", accuracy_score(y_test, y_pred_xgb))
+
+ #Best model pick
+
+print("Decision Tree:", accuracy_score(y_test, y_pred))
+print("Tuned Decision Tree:", accuracy_score(y_test, y_pred_best))
+print("Random Forest:", accuracy_score(y_test, y_pred_rf))
+print("Logistic Regression:", accuracy_score(y_test, y_pred_lr))
+print("XGBoost:", accuracy_score(y_test, y_pred_xgb))
+
+from sklearn.metrics import classification_report
+
+print("Random Forest Report:\n", classification_report(y_test, y_pred_rf))
+print("Logistic Regression Report:\n", classification_report(y_test, y_pred_lr))
+print("XGBoost Report:\n", classification_report(y_test, y_pred_xgb))
+print("Decision Tree Report:\n", classification_report(y_test, y_pred))
+
+import pickle
+from google.colab import files
+
+# Save the FITTED best model (XGBoost Classifier)
+with open("xgb_best_model.pkl", "wb") as file:
+    pickle.dump(xgb, file)   # or use best_model if selected automatically
+
+print("Model 'xgb_best_model.pkl' saved successfully.")
+
+# Download the saved model file
+files.download("xgb_best_model.pkl")
+
+
